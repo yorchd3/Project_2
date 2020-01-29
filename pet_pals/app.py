@@ -63,10 +63,11 @@ def pals():
         "text": hover_text,
         "hoverinfo": "text",
         "marker": {
+            "color": "#adff2f",
             "size": 30,
             "line": {
-                "color": "#adff2f",
-                "width": 1
+                "color": "#000000",
+                "width": 3
             },
         }
     }]
