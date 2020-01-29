@@ -19,7 +19,6 @@ app = Flask(__name__)
 from flask_sqlalchemy import SQLAlchemy
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL', '') or "sqlite:///db.sqlite"
 # app.config['SQLALCHEMY_DATABASE_URI'] = os.environ.get('DATABASE_URL')
-
 app.config['SQLALCHEMY_DATABASE_URI'] = "sqlite:///db.sqlite"
 
 db = SQLAlchemy(app)
@@ -64,9 +63,9 @@ def pals():
         "text": hover_text,
         "hoverinfo": "text",
         "marker": {
-            "size": 50,
+            "size": 30,
             "line": {
-                "color": "rgb(8,8,8)",
+                "color": "#adff2f",
                 "width": 1
             },
         }
