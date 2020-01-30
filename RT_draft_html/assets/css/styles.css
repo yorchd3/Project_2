@@ -1,4 +1,4 @@
-/* ----DEFAULT ELEMENT STYLING START---- */
+/* ----ELEMENT STYLING START---- */
 *{
     margin:0;
     padding:0;
@@ -8,7 +8,8 @@ body {
   background: url(../images/Fig3.PNG) no-repeat;
   background-size: cover;
 }
-p{
+/*--navbar--*/
+p a {
   font-family:arial;
   color:orangered;
   font-size:40px;
@@ -46,98 +47,47 @@ ul li ul li {
 ul li:hover ul li {
     display: block;
 }
-/* ----DEFAULT ELEMENT STYLING END---- */
+/* ----Navbar END---- */
 
-/* ----NAV START---- */
-.navbar-custom {
-  background-color: none;
+/* ----Container START---- */
+#container{
+  width:800px
+  margin-left: auto;
+  margin-right: auto;
 }
-
-.navbar-right-custom {
-  /* Box-model */
-  padding-top: 6px;
-  padding-right: 20px;
-
-  /* Typography */
-  font-family: Arial;
-  font-weight: lighter;
-}
-
-/* -----NAV END---- */
-
-/* ----DESCRIPTION START---- */
-.description-header {
+#content-description{
   /* Positioning */
-  margin-bottom: 33px;
-  font-family: Georgia;
-
+  width: 600px;
+  padding:10px;
+  float:left;
+  
   /* Typography */
-  font-size: 32px;
+  font-family:Georgia;
+  font-size: 20px;
   font-weight: bold;
-  color: black;
-}
-
-.description-content {
-  /* Box-model */
-  padding: 0px;
-
-  /* Positioning */
-  margin-top: 10px;
-
-  /* Visual */
-  background-color:none;
-}
-
-.description-content > p {
-  /* Box-model */
-  padding-top: 10px;
-
-  /* Typography */
-  font-size: 16px;
-  line-height: 20px;
-  color: rgb(0, 0, 0);
-}
-
-.description-text {
-  padding-bottom: 10px;
-}
-
-#description-image {
-  /* Positioning */
-  float: left;
-
-  /* Box-model */
-  width: 100px;
-  height: 100px;
-  margin-top: 10px;
-  margin-right: 10px;
+  color: darkblue;
+  background:lavender
 }
 
 /* ----DESCRIPTION END---- */
 
 /* ----IMAGE NAV START---- */
 #imageNav-area {
-  width: 100%;
-
-  /* Box-model */
-  padding: 30px 30px 43px;
-
-  /* Positioning */
-  margin-top: 32px;
-
-  /* Visual */
-  background-color:none;
+  width: 180px;
+  padding:10px;
+  float: right;
 }
 
 .imageNav-header {
   /* Positioning */
   margin-bottom: 15px;
   font-family: Georgia;
+  align-content: right;
 
   /* Typography */
   font-size: 25px;
   font-weight: bold;
-  color: black;
+  color:orange;
 }
 
 .imageNav-photo {
@@ -154,7 +104,7 @@ ul li:hover ul li {
 
 .imageNav-photo.active {
   /* Visuals */
-  border: none;
+  border: 10px;
 }
 
 #images {
@@ -167,29 +117,12 @@ ul li:hover ul li {
 
 /* ----IMAGE NAV END---- */
 
-/* ----COMPARISON START---- */
-.comparison-image:hover {
-  opacity: 0.6;
-}
-
-.imageNav-header {
-  /* Positioning */
-  margin-bottom: 10px;
-  font-family: Georgia;
-
-  /* Typography */
-  font-size: 20px;
-  font-weight: bold;
-  color: #f58e07;
-  text-align: centre;
-}
-
-/* ----COMPARISON END---- */
-
 /* ----FOOTER START---- */
 .footer {
   /* Positioning */
-  position: absolute;
+  clear: both;
+  background-color: grey;
+  padding:10px;
   bottom: 0;
 
   /* Box-model */
@@ -198,15 +131,17 @@ ul li:hover ul li {
   margin-top: 30px;
 
   /* Visual */
-  background-color:none;
+  background-color:grey;
 }
 
 .text-muted-footer {
   /* Positioning */
-  margin-top: 15px;
+  margin-top: 10px;
 
   /* Typography */
-  color:none;
+  font-size: small;
+  color:white;
+
 }
 
 .two-toned-footer-color {
@@ -215,7 +150,7 @@ ul li:hover ul li {
   padding-top: 3px;
 
   /* Visual */
-  background-color:none;
+  background-color:grey;
 }
 
 /* ----FOOTER END---- */
