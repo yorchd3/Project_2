@@ -1,4 +1,5 @@
 var url = "./data/samples.json";
+var url2 = "./data/ESG_Database.json";
 
 // declare initiation function
 // select dropdown
@@ -29,6 +30,10 @@ function init() {
     
     updateVisuals(myObj);
 
+  });
+
+  d3.json(url2).then((response2) => {
+    console.log(response2);
   });
 
 }
@@ -138,35 +143,79 @@ function updateVisuals(myObj) {
   Object.keys(myObj.metadata).forEach(property => metUl.append("li").text(`${property}: ${myObj.metadata[property]}`));
 
 }
+//bin by risk category
+//bin by aggregate score category
+//bin by aggregate score
+//bin by specific E, S, G score
 
-var bins = ["A","B","C","D","F"];
-var y = [];
-for (var i = 0; i < 500; i ++) {
-	bins[i] = Math.random();
+/*
+ticker
+ESG Risk Score
+ESG Risk Score Level
+ESG Risk Score Percentile
+Environment Risk Score
+Social Risk Score
+Governance Risk Score
+Controversy Level Risk Text
+*/
+
+//ticker,ESG Risk Score,ESG Risk Score Level,ESG Risk Score Percentile,Environment Risk Score,Social Risk Score,Governance Risk Score,Controversy Level Risk Text
+//MMM,35,High,69th percentile,12.6,12.7,9.2,Significant
+//AOS,25,Medium,37th percentile,13.6,4.3,7.3,Moderate
+//ABT,31,High,57th percentile,3.7,15.3,11.6,Significant
+//ABBV,30,High,56th percentile,1,16.5,12.8,Significant
+//ABN.AS,86,Severe,98th percentile,90,85,84.0,Significant
+//ACN,15,Low,7th percentile,1,8.2,6.2,Moderate
+//AC.PA,19,Negligible,16th percentile,7,7,5.0,Moderate
+//ATVI,17,Low,10th percentile,0.2,10.5,6.1,Moderate
+//AYI,28,Medium,46th percentile,8.5,11.3,8.0,Moderate
+
+
+var rand_arr1 = [];
+for (var i = 0; i < 50; i ++) {
+	rand_arr1[i] = Math.random();
 }
-
-var trace = {
-    x: bins,
+var rand_arr2 = [];
+for (var i = 0; i < 500; i ++) {
+	rand_arr2[i] = Math.random();
+}
+var trace1 = {
+    x: rand_arr1,
     type: "histogram",
     opacity: 0.75,
-    name:"trace name",
-    autobinx: false,
-    histnorm: "count",
+    name:"trace1 sum",
+    histfunc: "sum",
+    // histnorm: "count",
     marker: {
       color: "#adff2f",
       line: {
         color: "#000000",
-        width: 1.5
+        width: 1
       }
     } 
   };
-var data = [trace];
+var trace2 = {
+    x: rand_arr2,
+    type: "histogram",
+    opacity: 0.75,
+    name:"trace2 avg",
+    histfunc: "avg",
+    // histnorm: "count",
+    marker: {
+      color: "#ff009d",
+      line: {
+        color: "#000000",
+        width: 1
+      }
+    } 
+  }; 
+var data = [trace1, trace2];
 var layout = {
   bargap: 2, 
   bargroupgap: 2.5, 
-  // barmode: "overlay", 
+  barmode: "group", 
   title: "Sample Plot Title Here", 
   xaxis: {title: "Sample xaxis title"}, 
   yaxis: {title: "Sample yaxis title"}
 };
-Plotly.newPlot("histogram", data);
+Plotly.newPlot("histogram", data, layout);
