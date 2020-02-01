@@ -54,6 +54,76 @@ function init() {
   });
 
 }
+function updateESG(testComp, scoresObj) {
+
+  console.log(testComp);
+
+  var metaDiv2 = d3.select("#company-info");
+
+  metaDiv2.selectAll("ul").remove();
+
+  metaDiv2.append("ul").attr("id", "meta-ul2");
+
+  var metUl2 = d3.select("#meta-ul2");
+
+  metUl2.append("li").text(`Ticker: ${testComp}`);
+
+  Object.keys(scoresObj).forEach(property => metUl2.append("li").text("test text"));
+
+  let aggArr = Object.values(scoresObj.agg);
+  let envArr = Object.values(scoresObj.env);
+  let socArr = Object.values(scoresObj.soc);
+  let govArr = Object.values(scoresObj.gov);
+
+  // console.log(`aggArr: ${aggArr}`);
+  // console.log(`envArr: ${envArr}`);
+  // console.log(`socArr: ${socArr}`);
+  // console.log(`govArr: ${govArr}`);
+
+  var aggTrace = {
+      x: aggArr,
+      type: "histogram",
+      opacity: 0.75,
+      name:"aggTrace sum",
+      histfunc: "sum",
+      // histnorm: "count",
+      marker: {
+        color: "#adff2f",
+        line: {
+          color: "#000000",
+          width: 1
+        }
+      } 
+    };
+  // var envTrace = {
+  //     x: envArr,
+  //     type: "histogram",
+  //     opacity: 0.75,
+  //     name:"envTrace avg",
+  //     histfunc: "avg",
+  //     // histnorm: "count",
+  //     marker: {
+  //       color: "#ff009d",
+  //       line: {
+  //         color: "#000000",
+  //         width: 1
+  //       }
+  //     } 
+  //   }; 
+  var data = [aggTrace];  
+  // var data = [aggTrace, envTrace];
+  var layout = {
+    bargap: 2, 
+    bargroupgap: 2, 
+    barmode: "group", 
+    title: "Sample Plot Title Here", 
+    xaxis: {title: "Sample xaxis title"}, 
+    yaxis: {title: "Sample yaxis title"}
+  };
+  Plotly.newPlot("histogram", data, layout);
+  
+
+}
 
 // declare sampleSelected function
 // select dropdown
@@ -161,33 +231,7 @@ function updateVisuals(myObj) {
 
 }
 
-function updateESG(testComp, scoresObj) {
 
-  console.log(testComp);
-
-  var metaDiv2 = d3.select("#company-info");
-
-  metaDiv2.selectAll("ul").remove();
-
-  metaDiv2.append("ul").attr("id", "meta-ul2");
-
-  var metUl2 = d3.select("#meta-ul2");
-
-  metUl2.append("li").text(`Ticker: ${testComp}`);
-
-  Object.keys(scoresObj).forEach(property => metUl2.append("li").text(Object.keys(scoresObj)));
-
-  let aggArr = Object.values(scoresObj.agg);
-  let envArr = Object.values(scoresObj.env);
-  let socArr = Object.values(scoresObj.soc);
-  let govArr = Object.values(scoresObj.gov);
-
-  console.log(`aggArr: ${aggArr}`);
-  console.log(`envArr: ${envArr}`);
-  console.log(`socArr: ${socArr}`);
-  console.log(`govArr: ${govArr}`);
-
-}
 
 
 /*
@@ -219,52 +263,12 @@ response["Governance Risk Score"]
 //AYI,28,Medium,46th percentile,8.5,11.3,8.0,Moderate
 
 
-var rand_arr1 = [];
-for (var i = 0; i < 50; i ++) {
-	rand_arr1[i] = Math.random();
-}
-var rand_arr2 = [];
-for (var i = 0; i < 500; i ++) {
-	rand_arr2[i] = Math.random();
-}
+// var rand_arr1 = [];
+// for (var i = 0; i < 50; i ++) {
+// 	rand_arr1[i] = Math.random();
+// }
+// var rand_arr2 = [];
+// for (var i = 0; i < 500; i ++) {
+// 	rand_arr2[i] = Math.random();
+// }
 
-var trace1 = {
-    x: rand_arr1,
-    type: "histogram",
-    opacity: 0.75,
-    name:"trace1 sum",
-    histfunc: "sum",
-    // histnorm: "count",
-    marker: {
-      color: "#adff2f",
-      line: {
-        color: "#000000",
-        width: 1
-      }
-    } 
-  };
-var trace2 = {
-    x: rand_arr2,
-    type: "histogram",
-    opacity: 0.75,
-    name:"trace2 avg",
-    histfunc: "avg",
-    // histnorm: "count",
-    marker: {
-      color: "#ff009d",
-      line: {
-        color: "#000000",
-        width: 1
-      }
-    } 
-  }; 
-var data = [trace1, trace2];
-var layout = {
-  bargap: 2, 
-  bargroupgap: 2.5, 
-  barmode: "group", 
-  title: "Sample Plot Title Here", 
-  xaxis: {title: "Sample xaxis title"}, 
-  yaxis: {title: "Sample yaxis title"}
-};
-Plotly.newPlot("histogram", data, layout);
