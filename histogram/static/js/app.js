@@ -10,7 +10,7 @@ var url2 = "./data/ESG_Database.json";
 function init() {
 
   d3.json(url).then((response) => {
-
+    
     var namesArr = response.names;
     var metArr = response.metadata;
     var samplesArr = response.samples;
@@ -33,8 +33,95 @@ function init() {
   });
 
   d3.json(url2).then((response2) => {
-    console.log(response2);
+
+    var tickersArr = Object.keys(response2["Company Name"]);
+    // var namesArr = Object.values(response2["Company Name"]);
+
+    tickersArr.forEach(ticker => {
+      d3.select("#tickerPicker").append("option").text(`${ticker}`);
+    });
+
+    var testComp = tickersArr[0];
+
+    var scoresObj = {};
+    scoresObj.agg = Object.values(response2["ESG Risk Score"]);
+    scoresObj.env = Object.values(response2["Environment Risk Score"]);
+    scoresObj.soc = Object.values(response2["Social Risk Score"]);
+    scoresObj.gov = Object.values(response2["Governance Risk Score"]);
+
+    updateESG(testComp, scoresObj);
+
   });
+
+}
+function updateESG(testComp, scoresObj) {
+
+  console.log(testComp);
+
+  var metaDiv2 = d3.select("#company-info");
+
+  metaDiv2.selectAll("ul").remove();
+
+  metaDiv2.append("ul").attr("id", "meta-ul2");
+
+  var metUl2 = d3.select("#meta-ul2");
+
+  metUl2.append("li").text(`Ticker: ${testComp}`);
+
+  Object.keys(scoresObj).forEach(property => metUl2.append("li").text("test text"));
+
+  let aggArr = Object.values(scoresObj.agg);
+  let envArr = Object.values(scoresObj.env);
+  let socArr = Object.values(scoresObj.soc);
+  let govArr = Object.values(scoresObj.gov);
+
+  // console.log(`aggArr: ${aggArr}`);
+  // console.log(`envArr: ${envArr}`);
+  // console.log(`socArr: ${socArr}`);
+  // console.log(`govArr: ${govArr}`);
+
+  var aggTrace = {
+      x: aggArr,
+      type: "histogram",
+      opacity: 0.75,
+      name:"aggTrace sum",
+      histfunc: "sum",
+      // histnorm: "count",
+      marker: {
+        color: "#adff2f",
+        line: {
+          color: "#000000",
+          width: 1
+        }
+      } 
+    };
+  // var envTrace = {
+  //     x: envArr,
+  //     type: "histogram",
+  //     opacity: 0.75,
+  //     name:"envTrace avg",
+  //     histfunc: "avg",
+  //     // histnorm: "count",
+  //     marker: {
+  //       color: "#ff009d",
+  //       line: {
+  //         color: "#000000",
+  //         width: 1
+  //       }
+  //     } 
+  //   }; 
+  var data = [aggTrace];  
+  // var data = [aggTrace, envTrace];
+  var layout = {
+    bargap: 2, 
+    bargroupgap: 2, 
+    barmode: "group", 
+    title: "Sample Plot Title Here", 
+    xaxis: {title: "Sample xaxis title"}, 
+    yaxis: {title: "Sample yaxis title"}
+  };
+  Plotly.newPlot("histogram", data, layout);
+  
 
 }
 
@@ -143,20 +230,25 @@ function updateVisuals(myObj) {
   Object.keys(myObj.metadata).forEach(property => metUl.append("li").text(`${property}: ${myObj.metadata[property]}`));
 
 }
-//bin by risk category
-//bin by aggregate score category
-//bin by aggregate score
-//bin by specific E, S, G score
+
+
+
 
 /*
 ticker
+
 ESG Risk Score
-ESG Risk Score Level
-ESG Risk Score Percentile
+response["ESG Risk Score"] <- object with key-value pairs, key is ticker, value is integer
+
 Environment Risk Score
+response["Environment Risk Score"]
+
 Social Risk Score
+response["Social Risk Score"]
+
 Governance Risk Score
-Controversy Level Risk Text
+response["Governance Risk Score"]
+
 */
 
 //ticker,ESG Risk Score,ESG Risk Score Level,ESG Risk Score Percentile,Environment Risk Score,Social Risk Score,Governance Risk Score,Controversy Level Risk Text
@@ -171,51 +263,12 @@ Controversy Level Risk Text
 //AYI,28,Medium,46th percentile,8.5,11.3,8.0,Moderate
 
 
-var rand_arr1 = [];
-for (var i = 0; i < 50; i ++) {
-	rand_arr1[i] = Math.random();
-}
-var rand_arr2 = [];
-for (var i = 0; i < 500; i ++) {
-	rand_arr2[i] = Math.random();
-}
-var trace1 = {
-    x: rand_arr1,
-    type: "histogram",
-    opacity: 0.75,
-    name:"trace1 sum",
-    histfunc: "sum",
-    // histnorm: "count",
-    marker: {
-      color: "#adff2f",
-      line: {
-        color: "#000000",
-        width: 1
-      }
-    } 
-  };
-var trace2 = {
-    x: rand_arr2,
-    type: "histogram",
-    opacity: 0.75,
-    name:"trace2 avg",
-    histfunc: "avg",
-    // histnorm: "count",
-    marker: {
-      color: "#ff009d",
-      line: {
-        color: "#000000",
-        width: 1
-      }
-    } 
-  }; 
-var data = [trace1, trace2];
-var layout = {
-  bargap: 2, 
-  bargroupgap: 2.5, 
-  barmode: "group", 
-  title: "Sample Plot Title Here", 
-  xaxis: {title: "Sample xaxis title"}, 
-  yaxis: {title: "Sample yaxis title"}
-};
-Plotly.newPlot("histogram", data, layout);
+// var rand_arr1 = [];
+// for (var i = 0; i < 50; i ++) {
+// 	rand_arr1[i] = Math.random();
+// }
+// var rand_arr2 = [];
+// for (var i = 0; i < 500; i ++) {
+// 	rand_arr2[i] = Math.random();
+// }
+
