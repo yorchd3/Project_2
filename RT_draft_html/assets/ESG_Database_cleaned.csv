@@ -1,0 +1,725 @@
+Ticker,Company Name,HQ City,HQ Country,ESG Risk Score,ESG Risk Score Level,Environment Risk Score,Social Risk Score,Governance Risk Score,Controversy Level Risk Text,2019 Performance,Market Cap,Industry,Sector
+AR,Antero Resources Corporation,Denver,United states of america,55,Severe,28.2,16.4,10.2,Moderate,-69.6485623,5.21E+08,Oil & Gas - E&P,Energy
+RRC,Range Resources Corporation,Fort worth,United states of america,46,Severe,23.9,12.4,9.7,Moderate,-49.32079415,7.57E+08,Oil & Gas - E&P,Energy
+ECA,Encana Corporation,Denver,United states of america,35,High,18.3,8.7,7.9,Moderate,-18.85813149,9.79E+08,Oil & Gas - E&P,Energy
+CHK,Chesapeake Energy Corporation,Oklahoma city,United states of america,44,Severe,22.8,11,9.8,Moderate,-60.47619048,1.03E+09,Oil & Gas - E&P,Energy
+TRQ,Turquoise Hill Resources Ltd.,Vancouver,Canada,41,Severe,17.4,12.5,10.8,Moderate,-55.15151515,1.27E+09,Metals & Mining,Basic Materials
+EQT,EQT Corporation,Pittsburgh,United states of america,38,High,21.6,8.4,7.6,Moderate,-42.29751191,1.58E+09,Oil & Gas - E&P,Energy
+X,United States Steel Corporation,Pittsburgh,United states of america,46,Severe,21.6,16.6,8.1,Significant,-37.44517544,1.60E+09,Steel,Basic Materials
+SPB,Spectrum Brands Holdings Inc.,Middleton,United states of america,47,Medium,43.9,48,51,Moderate,54.33469799,2163205000,Consumer Packaged Goods,Consumer Defensive
+VII.TO,Seven Generations Energy Ltd.,Calgary,Canada,39,Severe,19,11,8,,-23.96768402,2.28E+09,Oil & Gas E&P,Energy
+ARX.TO,ARC Resources Ltd.,Calgary,Canada,33,Severe,16,9,8,,0.987654321,2.49E+09,Oil & Gas E&P,Energy
+FLR,Fluor Corporation,Irving,United states of america,28,Medium,6.8,14.1,6.9,Significant,-41.36645963,2.61E+09,Engineering & Construction,Industrials
+AA,Alcoa Corporation,Pittsburgh,United states of america,31,High,15,9.2,6.9,Significant,-19.0744921,2.65E+09,Metals & Mining,Basic Materials
+ALKS,Alkermes plc,Dublin,Ireland; republic of,30,Severe,0,22,9,Low,-30.87089122,2.75E+09,Biotechnology,Healthcare
+KAR,KAR Auction Services Inc,Carmel,United states of america,23,Medium,5.6,12.4,5.2,,20.65337763,2.79E+09,Retail - Apparel & Specialty,Consumer Cyclical
+IGT,International Game Technology,London,United kingdom,19,Low,1.5,9.4,8.5,Low,2.323991798,2.80E+09,Travel & Leisure,Consumer Cyclical
+RIG,Transocean Ltd (Switzerland),Steinhausen,Switzerland,31,High,10.6,10.6,9.6,Significant,-0.864553314,2.90E+09,Oil & Gas - Drilling,Energy
+GT,The Goodyear Tire & Rubber Company,Akron,United states of america,18,Low,5,5.4,8.1,Significant,-23.76286134,3.15E+09,Autos,Consumer Cyclical
+SIX,Six Flags Entertainment Corporation,Grand prairie,United states of america,30,Medium,13.9,11.4,4.6,Moderate,-18.91065972,3.20E+09,Travel & Leisure,Consumer Cyclical
+MAC,Macerich Company (The),Santa monica,United states of america,15,Low,2.6,6.8,5.3,Moderate,-37.80036969,3.24E+09,REITs,Real Estate
+PSK.TO,PrairieSky Royalty Ltd.,Calgary,Canada,17,Negligible,7,3,7,,-13.80871534,3.46E+09,Oil & Gas E&P,Energy
+AVT,Avnet Inc.,Phoenix,United states of america,10,Low,3.7,3.3,3.5,,17.56232687,3.78E+09,Computer Hardware,Technology
+EXP,Eagle Materials Inc,Dallas,United states of america,37,High,21.1,6.5,9.2,Low,48.5498935,3.83E+09,Building Materials,Basic Materials
+MSM,MSC Industrial Direct Company Inc.,Melville,United states of america,20,Low,5.1,7.2,7.4,,2.015080603,3.90E+09,Industrial Distribution,Industrials
+TRIP,TripAdvisor Inc.,Needham,United states of america,21,Medium,3.2,10.6,6.8,Moderate,-43.67816092,3.93E+09,Travel & Leisure,Consumer Cyclical
+CO.PA,"Casino, Guichard-Perrachon Societe Anonyme",Saint-etienne,France,17,Negligible,3,9,5,Moderate,14.74958723,3.94E+09,Grocery Stores,Consumer Defensive
+SATS,EchoStar Corporation,Englewood,United states of america,22,Medium,1.6,10.9,10,Low,45.53091398,3.96E+09,Communication Equipment,Technology
+DKS,Dick's Sporting Goods Inc,Coraopolis,United states of america,19,Low,4.7,7.9,5.9,Low,58.62179487,3.99E+09,Retail - Apparel & Specialty,Consumer Cyclical
+FL,Foot Locker Inc.,New york city,United states of america,16,Low,2.5,7.4,5.5,Moderate,-26.71052632,4.08E+09,Retail - Apparel & Specialty,Consumer Cyclical
+PACW,PacWest Bancorp,Brea,United states of america,29,Medium,2.2,13.8,12.7,Low,14.99399038,4.25E+09,Banks,Financial Services
+NCR,NCR Corporation,Atlanta,United states of america,24,Medium,3.9,11.2,8.9,Moderate,52.33968804,4.38E+09,Application Software,Technology
+HP,Helmerich & Payne Inc.,Tulsa,United states of america,26,Medium,8.3,9,9,Low,-5.235711306,4.45E+09,Oil & Gas - Drilling,Energy
+LAZ,Lazard LTD. LTD. Class A,Hamilton,Bermuda,26,Medium,2,11.6,12.9,Low,8.263343267,4.50E+09,Brokers & Exchanges,Financial Services
+THO,Thor Industries Inc.,Elkhart,United states of america,32,High,9.9,14.6,7.7,,42.86538462,4.52E+09,Autos,Consumer Cyclical
+ASH,Ashland Global Holdings Inc.,Covington,United states of america,39,High,18.5,10.9,9.2,Low,7.849492672,4.57E+09,Chemicals,Basic Materials
+CIT,CIT Group Inc (DEL),Livingston,United states of america,27,Medium,2.1,13.6,11.5,Significant,19.23177424,4.59E+09,Banks,Financial Services
+SLM,SLM Corporation,Newark delaware,United states of america,24,Medium,0.2,13.4,10.7,,7.220216606,4.64E+09,Credit Services,Financial Services
+XEC,Cimarex Energy Co,Denver,United states of america,52,Severe,27.7,13.9,10.4,Moderate,-14.85806975,4.66E+09,Oil & Gas - E&P,Energy
+CPRI,Capri Holdings Limited,London,United kingdom,15,Negligible,2,7,6,Moderate,0.606540084,4.76E+09,Apparel Manufacturing,Consumer Cyclical
+AYI,Acuity Brands Inc (Holding Company),Atlanta,United states of america,28,Medium,8.5,11.3,8,Moderate,20.05219661,4.82E+09,Computer Hardware,Technology
+HUN,Huntsman Corporation,The woodlands,United states of america,34,High,15.5,8.6,10,Moderate,25.24624158,4.84E+09,Chemicals,Basic Materials
+TNET.BR,Telenet Group Holding NV,Malines (mechelen),Belgium,17,Negligible,2,7,8,Low,-1.330049261,4.84E+09,Telecom Services,Communication Services
+ADS,Alliance Data Systems Corporation,Columbus,United states of america,17,Low,0.1,10.7,6.1,Moderate,-25.23987207,4.94E+09,Credit Services,Financial Services
+WPX,WPX Energy Inc.,Tulsa,United states of america,61,Severe,31.9,18.1,10.6,Moderate,21.05726872,5.04E+09,Oil & Gas - E&P,Energy
+MAT,Mattel Inc.,El segundo,United states of america,14,Low,0,8.1,5.8,Significant,35.63563564,5.06E+09,Travel & Leisure,Consumer Cyclical
+DEC.PA,JCDecaux SA,Neuilly-sur-seine,France,14,Negligible,0,7,7,,7.849293564,5.13E+09,Advertising Agencies,Communication Services
+HBI,Hanesbrands Inc.,Winston salem,United states of america,14,Low,1.2,7,5.7,Moderate,18.51556265,5.16E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+NYCB,New York Community Bancorp Inc.,Westbury,United states of america,28,Medium,3.6,13.3,10.7,,27.73645058,5.17E+09,Banks,Financial Services
+M,Macy's Inc,Cincinnati,United states of america,14,Low,2.4,7.1,4.9,Moderate,-42.91470786,5.20E+09,Retail - Apparel & Specialty,Consumer Cyclical
+SNV,Synovus Financial Corp.,Columbus,United states of america,29,Medium,2.2,13.3,13.6,Moderate,22.53829322,5.21E+09,Banks,Financial Services
+ICL,Israel Chemicals Limited,Tel aviv-yafo,Israel,36,Severe,18,9,9,Moderate,-15.37102473,5.22E+09,Agriculture,Basic Materials
+HOG,Harley-Davidson Inc.,Milwaukee,United states of america,17,Negligible,4,8,6,Moderate,8.997655334,5.24E+09,Autos,Consumer Cyclical
+MF.PA,Wendel,Paris,France,12,Negligible,0,3,10,Moderate,13.18051576,5.34E+09,Asset Management,Financial Services
+SNC.TO,SNC-Lavalin Group Inc.,Montreal,Canada,35,Severe,7,16,11,High,-34.77787456,5.44E+09,Engineering & Construction,Industrials
+IPN.PA,Ipsen S.A.,Boulogne-billancourt,France,30,Severe,1,18,11,Low,-29.99556934,5.49E+09,Drug Manufacturers—Specialty & Generic,Healthcare
+AXS,Axis Capital Holdings Limited,Pembroke,Bermuda,31,High,2.2,11.7,16.9,Low,15.1045701,5.52E+09,Insurance - Property & Casualty,Financial Services
+MAN,ManpowerGroup,Milwaukee,United states of america,13,Negligible,0,9,4,Moderate,49.84567901,5.54E+09,Employment Services,Industrials
+UNM,Unum Group,Chattanooga,United states of america,25,Medium,1.8,10.5,12.8,Moderate,-0.748808713,5.66E+09,Insurance - Life,Financial Services
+SEE,Sealed Air Corporation,Charlotte,United states of america,20,Medium,13.4,2.5,4.1,Moderate,14.32261768,5.67E+09,Packaging & Containers,Consumer Cyclical
+LECO,Lincoln Electric Holdings Inc.,Euclid,United states of america,31,High,9.4,15.2,6.6,Low,22.67596703,5.68E+09,Industrial Products,Industrials
+PWR,Quanta Services Inc.,Houston,United states of america,37,High,9.1,16.5,11.9,Low,35.24916944,5.68E+09,Engineering & Construction,Industrials
+PII,Polaris Industries Inc.,Medina,United states of america,13,Negligible,0,7,6,Moderate,32.62910798,5.78E+09,Autos,Consumer Cyclical
+CFR,Cullen/Frost Bankers Inc.,San antonio,United states of america,26,Medium,1.7,11.2,12.8,Low,11.18944735,5.80E+09,Banks,Financial Services
+SON,Sonoco Products Company,Hartsville,United states of america,20,Low,13.7,2.1,3.9,,16.16789008,5.82E+09,Packaging & Containers,Consumer Cyclical
+COG,Cabot Oil & Gas Corporation,Houston,United states of america,51,Severe,24.6,16.1,10.1,Low,-22.10290828,5.84E+09,Oil & Gas - E&P,Energy
+SRCL,Stericycle Inc.,Bannockburn,United states of america,26,Medium,14.8,7.1,3.7,Moderate,73.91659853,5.87E+09,Waste Management,Industrials
+GIL,Gildan Activewear Inc. Class A Sub. Vot.,Montreal,Canada,11,Low,0.9,5.1,5.5,Moderate,-2.733860343,5.88E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+SABR,Sabre Corporation,Southlake,United states of america,22,Medium,0.1,13.1,8.4,Moderate,3.696857671,5.97E+09,Application Software,Technology
+SK.PA,SEB SA,Ecully,France,15,Negligible,5,3,7,Moderate,17.37588652,5.97E+09,"Furnishings, Fixtures & Appliances",Consumer Cyclical
+HLF,Herbalife Ltd.,Grand cayman,Cayman islands,32,High,13.5,9.8,8.7,Moderate,-19.13486005,5.98E+09,Consumer Packaged Goods,Consumer Defensive
+JWN,Nordstrom Inc.,Seattle,United states of america,15,Low,1.9,8,5.5,Moderate,-12.18622613,6.00E+09,Retail - Apparel & Specialty,Consumer Cyclical
+MDU,MDU Resources Group Inc.,Bismarck,United states of america,37,High,21.8,6.7,8.3,Low,24.62248322,6.01E+09,Building Materials,Basic Materials
+BRX,Brixmor Property Group Inc.,New york city,United states of america,18,Negligible,6,5,7,Significant,47.10687543,6.02E+09,REITs,Real Estate
+SESG.PA,SES S.A.,Betzdorf,Luxembourg,18,Negligible,4,6,8,,-25.19449431,6.07E+09,Broadcasting,Communication Services
+INGR,Ingredion Incorporated,Westchester,United states of america,31,High,12.1,12.7,6.3,Low,1.695842451,6.08E+09,Consumer Packaged Goods,Consumer Defensive
+TOL,Toll Brothers Inc.,Horsham,United states of america,21,Medium,7.7,8.3,5.1,Moderate,19.98177953,6.26E+09,Homebuilding & Construction,Consumer Cyclical
+FLS,Flowserve Corporation,Irving,United states of america,37,Severe,11,19,7,Moderate,30.90478695,6.36E+09,Industrial Products,Industrials
+MIDD,The Middleby Corporation,Elgin,United states of america,33,Severe,9,16,8,Moderate,6.609559038,6.39E+09,Industrial Products,Industrials
+AKE.PA,Arkema S.A.,Colombes,France,31,Severe,16,6,10,Significant,26.33404482,6.43E+09,Specialty Chemicals,Basic Materials
+LB,L Brands Inc.,Columbus,United states of america,16,Low,2.5,7.2,6.1,Moderate,-29.41176471,6.47E+09,Retail - Apparel & Specialty,Consumer Cyclical
+LEG,Leggett & Platt Incorporated,Carthage,United states of america,36,High,11.4,16,8.6,Moderate,41.82477679,6.50E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+FR.PA,Valeo SA,Paris,France,12,Negligible,2,3,7,Moderate,23.12818503,6.50E+09,Auto Parts,Consumer Cyclical
+JEF,Jefferies Financial Group Inc.,New york,United states of america,14,Negligible,0,4,10,Moderate,23.09907834,6.55E+09,Financial Conglomerates,Financial Services
+STLD,Steel Dynamics Inc.,Fort wayne,United states of america,34,High,13.2,14.2,6.9,Moderate,13.31557923,6.56E+09,Steel,Basic Materials
+FLEX,Flex Ltd.,Singapore,Singapore,8,Negligible,0.8,2.8,4.9,Low,65.83442838,6.58E+09,Computer Hardware,Technology
+CDK,CDK Global Inc.,Hoffman estates,United states of america,19,Low,1.4,12.7,5.2,Moderate,14.2021721,6.61E+09,Application Software,Technology
+PVH,PVH Corp.,New york city,United states of america,15,Low,1.1,7.6,6.8,Significant,13.1253362,6.67E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+AXTA,Axalta Coating Systems Ltd.,Philadelphia,United states of america,26,Medium,13.1,7.7,5.4,Moderate,29.80358668,6.70E+09,Chemicals,Basic Materials
+HDS,HD Supply Holdings Inc.,Atlanta,United states of america,21,Medium,5.7,7.8,7.5,Low,7.196162047,6.71E+09,Industrial Distribution,Industrials
+SMG,Scotts Miracle-Gro Company (The),Marysville,United states of america,47,Severe,20.8,15.7,10.2,Moderate,72.76277253,6.74E+09,Agriculture,Basic Materials
+SPR,Spirit Aerosystems Holdings Inc.,Wichita,United states of america,37,Severe,11,17,9,Moderate,1.095852407,6.74E+09,Aerospace & Defense,Industrials
+GPS,Gap Inc. (The),San francisco,United states of america,13,Low,1.1,6.2,5.9,Significant,-31.36645963,6.76E+09,Retail - Apparel & Specialty,Consumer Cyclical
+DCI,Donaldson Company Inc.,Minneapolis,United states of america,33,High,10.8,15.2,7.2,Moderate,32.79557502,6.77E+09,Industrial Products,Industrials
+ALV,Autoliv Inc.,Stockholm,Sweden,17,Low,5.2,4.8,7.3,Significant,20.19080165,6.82E+09,Autos,Consumer Cyclical
+OC,Owens Corning Inc New,Toledo,United states of america,17,Low,8.8,2.4,6.3,Moderate,48.06730332,6.84E+09,Building Materials,Basic Materials
+PBCT,People's United Financial Inc.,Bridgeport,United states of america,27,Medium,3.3,12.8,10.7,Moderate,17.11711712,6.87E+09,Banks,Financial Services
+EWBC,East West Bancorp Inc.,Pasadena,United states of america,27,Medium,2.2,12.2,12.2,Low,11.87686653,6.91E+09,Banks,Financial Services
+IPGP,IPG Photonics Corporation,Oxford,United states of america,14,Negligible,3,4,6,,27.91949863,6.96E+09,Semiconductors,Technology
+ORI,Old Republic International Corporation,Chicago,United states of america,33,Severe,2,12,18,Moderate,8.750607681,6.96E+09,Insurance,Financial Services
+WBC,Wabco Holdings Inc.,Bern,Switzerland,25,Medium,5.5,11.7,7.8,Moderate,26.23439538,6.96E+09,Autos,Consumer Cyclical
+KSS,Kohl's Corporation,Menomonee falls,United states of america,16,Low,2.3,8.7,4.9,Moderate,-23.1986735,6.98E+09,Retail - Apparel & Specialty,Consumer Cyclical
+GVNV.AS,GrandVision N.V.,Schiphol,Netherlands,15,Negligible,3,6,5,Moderate,43.3350758,7.03E+09,Specialty Retail,Consumer Cyclical
+RHI,Robert Half International Inc.,Menlo park,United states of america,11,Low,0.1,7.4,3.9,Low,10.4020979,7.04E+09,Employment Services,Industrials
+AOS,A.O. Smith Corporation,Milwaukee,United states of america,25,Medium,13.6,4.3,7.3,Moderate,11.56908665,7.09E+09,Industrial Products,Industrials
+BWA,BorgWarner Inc.,Auburn hills,United states of america,24,Medium,5.1,10.8,7.6,Moderate,24.87046632,7.24E+09,Autos,Consumer Cyclical
+HFC,HollyFrontier Corporation,Dallas,United states of america,37,High,22.1,9.4,5.7,Low,-0.802034429,7.29E+09,Oil & Gas - Refining & Marketing,Energy
+SLG,SL Green Realty Corporation,New york city,United states of america,15,Low,3.6,3.8,7.8,Low,16.18614062,7.35E+09,REITs,Real Estate
+TPR,Tapestry Inc.,New york city,United states of america,14,Low,1.7,6.9,5.7,Moderate,-20.08888889,7.35E+09,Retail - Apparel & Specialty,Consumer Cyclical
+ICAD.PA,Icade,Issy-les-moulineaux,France,12,Negligible,3,3,6,,45.93984962,7.38E+09,REIT—Diversified,Real Estate
+DEI,Douglas Emmett Inc.,Santa monica,United states of america,19,Negligible,5,6,7,,28.62584237,7.39E+09,REITs,Real Estate
+NLSN,Nielsen N.V.,New york,United states of america,23,Medium,0.1,16.5,6.6,Low,-12.98756965,7.40E+09,Business Services,Industrials
+BG,Bunge Limited,White plains,United states of america,36,High,16.6,14.1,5.2,Significant,7.690868263,7.43E+09,Consumer Packaged Goods,Consumer Defensive
+PNR,Pentair plc.,Manchester,United kingdom,31,High,8.7,15.5,6.8,Low,21.41344627,7.44E+09,Industrial Products,Industrials
+TECK,Teck Resources Ltd,Vancouver,Canada,21,Medium,10.7,6.1,4.7,Significant,-19.35933148,7.49E+09,Metals & Mining,Basic Materials
+FFIV,F5 Networks Inc.,Seattle,United states of america,18,Negligible,1,11,5,,-13.81225699,7.61E+09,Application Software,Technology
+LEA,Lear Corporation,Southfield,United states of america,17,Low,4.9,5.2,6.5,Moderate,11.67182159,7.62E+09,Autos,Consumer Cyclical
+MOS,Mosaic Company (The),Tampa,United states of america,38,High,17.8,11.9,8.8,Significant,-25.91578227,7.64E+09,Agriculture,Basic Materials
+AER,Aercap Holdings N.V.,Dublin,Ireland; republic of,20,Medium,5.4,7.7,7.4,Moderate,55.22727273,7.70E+09,Aerospace & Defense,Industrials
+JNPR,Juniper Networks Inc.,Sunnyvale,United states of america,16,Low,0.4,8.3,7.6,Moderate,-8.472686734,7.70E+09,Communication Equipment,Technology
+QGEN,Qiagen N.V.,Venlo,Netherlands,17,Low,1.8,8,6.9,Low,-1.886792453,7.70E+09,Medical Diagnostics & Research,Healthcare
+CBSH,Commerce Bancshares Inc.,Kansas city,United states of america,27,Medium,1.9,11.1,13.9,,20.525102,7.72E+09,Banks,Financial Services
+ST,Sensata Technologies Holding N.V.,Swindon,United kingdom,24,Medium,6.8,10.5,7.1,,20.1382694,7.73E+09,Computer Hardware,Technology
+GIL.TO,Gildan Activewear Inc.,Montreal,Canada,11,Negligible,1,5,6,Moderate,-7.36003861,7.76E+09,Apparel Manufacturing,Consumer Cyclical
+COTY,Coty Inc. Class A,New york city,United states of america,32,High,13.7,9.6,8.3,Low,71.49390244,7.79E+09,Consumer Packaged Goods,Consumer Defensive
+ACM,AECOM,Los angeles,United states of america,31,High,5,17.3,9,Moderate,62.75471698,7.80E+09,Engineering & Construction,Industrials
+GNTX,Gentex Corporation,Zeeland,United states of america,25,Medium,6.7,10.5,7.5,,43.39435923,7.83E+09,Autos,Consumer Cyclical
+PRGO,Perrigo Company plc,Dublin,Ireland; republic of,41,Severe,3.1,24.2,13.5,Moderate,33.31612903,7.88E+09,Drug Manufacturers,Healthcare
+AIV,Apartment Investment and Management Company,Denver,United states of america,19,Low,7,5.3,6.3,Low,17.70738377,7.92E+09,REITs,Real Estate
+AIZ,Assurant Inc.,New york city,United states of america,26,Medium,1.4,11.3,13.6,Significant,46.55635063,7.97E+09,Insurance,Financial Services
+IVZ,Invesco Ltd,Atlanta,United states of america,26,Medium,1.5,13.5,11.1,Moderate,7.407407407,8.00E+09,Asset Management,Financial Services
+NOV,National Oilwell Varco Inc.,Houston,United states of america,34,High,13,12.7,8.7,Moderate,-2.529182879,8.11E+09,Oil & Gas - Services,Energy
+NWSA,News Corporation,New york city,United states of america,16,Low,0,5.6,10.7,High,24.5814978,8.12E+09,Entertainment,Consumer Cyclical
+KIM,Kimco Realty Corporation,New hyde park,United states of america,14,Low,4.4,4,5.7,,41.36518771,8.17E+09,REITs,Real Estate
+WLK,Westlake Chemical Corporation,Houston,United states of america,37,High,21.3,4.7,11.2,Moderate,6.014810337,8.20E+09,Chemicals,Basic Materials
+ZAYO,Zayo Group Holdings Inc.,Boulder,United states of america,30,Medium,8.8,12.5,8.3,Low,51.70753065,8.23E+09,Communication Equipment,Technology
+ATO.PA,Atos SE,Bezons,France,14,Negligible,0,8,6,Moderate,36.69302924,8.25E+09,Information Technology Services,Technology
+VOYA,Voya Financial Inc.,New york city,United states of america,23,Medium,1.8,12.2,8.7,Low,51.918286,8.26E+09,Asset Management,Financial Services
+DXC,DXC Technology Company,Tysons corner,United states of america,16,Low,0,9.9,5.8,Moderate,-29.3022381,8.31E+09,Application Software,Technology
+IONS,Ionis Pharmaceuticals Inc.,Carlsbad,United states of america,32,High,0.2,22.4,9.5,,11.74620792,8.38E+09,Biotechnology,Healthcare
+PROX.BR,Proximus PLC,Bruxelles,Belgium,19,Negligible,2,9,8,Moderate,8.044030483,8.41E+09,Telecom Services,Communication Services
+NWL,Newell Brands Inc.,Atlanta,United states of america,15,Low,6.1,5.3,4,Moderate,3.388918774,8.47E+09,Consumer Packaged Goods,Consumer Defensive
+RNR,RenaissanceRe Holdings Ltd.,Pembroke,Bermuda,30,Severe,2,11,17,,46.6118175,8.52E+09,Insurance - Specialty,Financial Services
+ALB,Albemarle Corporation,Charlotte,United states of america,37,High,19.7,8.9,8.7,Low,-5.229012586,8.57E+09,Chemicals,Basic Materials
+TRGP,Targa Resources Inc.,Houston,United states of america,37,Severe,15,16,6,,13.35369239,8.62E+09,Oil & Gas - Midstream,Energy
+TTC,Toro Company (The),Bloomington,United states of america,20,Negligible,6,10,4,Moderate,42.57337151,8.62E+09,Industrial Products,Industrials
+BEP,Brookfield Renewable Partners L.P.,Hamilton,Bermuda,23,Medium,2.7,13,7.7,,80.03861004,8.63E+09,Utilities - Independent Power Producers,Utilities
+DVN,Devon Energy Corporation,Oklahoma city,United states of america,34,High,16.9,11.1,6.1,Low,15.2173913,8.64E+09,Oil & Gas - E&P,Energy
+VIPS,Vipshop Holdings Limited American Depositary Shares each representing two,Guangzhou,China,21,Medium,4,9.4,7.8,Low,159.5238095,8.64E+09,Retail - Defensive,Consumer Defensive
+REI-UN.TO,RioCan Real Estate Investment Trust,Toronto,Canada,18,Negligible,5,6,6,,12.43697479,8.65E+09,REIT—Retail,Real Estate
+ONEX.TO,Onex Corporation,Toronto,Canada,17,Negligible,0,4,13,,10.51782112,8.66E+09,Conglomerates,Industrials
+RL,Ralph Lauren Corporation,New york city,United states of america,15,Negligible,1,7,7,Moderate,13.29982602,8.67E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+SCI,Service Corporation International,Houston,United states of america,15,Negligible,0,10,5,Moderate,14.33184302,8.83E+09,Personal Services,Consumer Cyclical
+JLL,Jones Lang LaSalle Incorporated,Chicago,United states of america,7,Negligible,1.3,2.5,3.7,Low,37.51184834,8.84E+09,Real Estate Services,Real Estate
+CF,CF Industries Holdings Inc.,Deerfield,United states of america,48,Severe,24.4,16.2,7.8,Moderate,9.721903011,8.85E+09,Agriculture,Basic Materials
+CMA,Comerica Incorporated,Dallas,United states of america,27,Medium,2.1,11.9,12.8,Moderate,4.454796914,8.88E+09,Banks,Financial Services
+UAA,Under Armour Inc. Class A,Baltimore,United states of america,16,Low,1.6,7.6,7.1,Moderate,22.24108659,8.89E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+UGI,UGI Corporation,King of prussia,United states of america,40,Severe,17.6,15.1,7.4,Moderate,-15.35145267,8.90E+09,Utilities - Regulated,Utilities
+CTC-A.TO,"Canadian Tire Corporation, Limited",Toronto,Canada,16,Negligible,2,8,6,Low,4.283262443,8.92E+09,Specialty Retail,Consumer Cyclical
+SNA,Snap-On Incorporated,Kenosha,United states of america,32,High,10.5,13,8,Moderate,16.59439741,8.96E+09,Industrial Products,Industrials
+CSL,Carlisle Companies Incorporated,Scottsdale,United states of america,45,Severe,20,16.1,8.6,,61.00278552,8.98E+09,Autos,Consumer Cyclical
+IPG,Interpublic Group of Companies Inc. (The),New york city,United states of america,16,Low,0.1,10,6.1,Moderate,11.97285507,9.00E+09,Advertising & Marketing Services,Consumer Cyclical
+LII,Lennox International Inc.,Richardson,United states of america,27,Medium,9.4,10.4,6.8,Low,11.47308782,9.09E+09,Industrial Products,Industrials
+GGG,Graco Inc.,Minneapolis,United states of america,32,High,10.1,14,7.8,,24.25328554,9.12E+09,Industrial Products,Industrials
+IRM,Iron Mountain Incorporated (Delaware)Common Stock REIT,Boston,United states of america,16,Low,5.8,4.2,5.7,,-1.666152422,9.16E+09,Business Services,Industrials
+OHI,Omega Healthcare Investors Inc.,Hunt valley,United states of america,17,Low,5.4,6,5.9,Low,20.48364154,9.18E+09,REITs,Real Estate
+RGA,Reinsurance Group of America Incorporated,Chesterfield missouri,United states of america,28,Medium,2.9,9.9,15.2,,16.28039649,9.19E+09,Insurance - Specialty,Financial Services
+OGE,OGE Energy Corporation,Oklahoma city,United states of america,40,Severe,23.3,11.6,5.6,Low,13.4728247,9.26E+09,Utilities - Regulated,Utilities
+RPM,RPM International Inc.,Medina,United states of america,45,Severe,21.6,13.3,10.2,Moderate,30.58863559,9.33E+09,Chemicals,Basic Materials
+COV.PA,Covivio,Metz,France,12,Negligible,2,4,6,,20.19002375,9.35E+09,REIT—Diversified,Real Estate
+NRG,NRG Energy Inc.,Princeton,United states of america,40,Severe,20.6,11.4,8,Moderate,0.378787879,9.35E+09,Utilities - Independent Power Producers,Utilities
+AAP,Advance Auto Parts Inc W/I,Raleigh,United states of america,13,Negligible,0,9,4,Moderate,1.714721199,9.37E+09,Retail - Apparel & Specialty,Consumer Cyclical
+LAMR,Lamar Advertising Company,Baton rouge,United states of america,18,Low,0.1,10.1,7.9,,29.02572998,9.42E+09,REITs,Real Estate
+PKG,Packaging Corporation of America,Lake forest,United states of america,19,Low,13.1,2.1,4.2,Moderate,34.18404026,9.43E+09,Packaging & Containers,Consumer Cyclical
+MRO,Marathon Oil Corporation,Houston,United states of america,43,Severe,23.7,10.9,8.6,Moderate,-5.29986053,9.44E+09,Oil & Gas - E&P,Energy
+EMN,Eastman Chemical Company,Kingsport,United states of america,28,Medium,13.1,6.7,7.9,Moderate,8.411981945,9.46E+09,Chemicals,Basic Materials
+FRT,Federal Realty Investment Trust,Rockville,United states of america,16,Low,4,5,7.1,Low,9.056252118,9.47E+09,REITs,Real Estate
+MLCO,Melco Resorts & Entertainment Limited,Hong kong,Hong kong,27,Medium,3.9,11.8,11.2,Moderate,37.17366629,9.50E+09,Travel & Leisure,Consumer Cyclical
+PUB.PA,Publicis Groupe S.A.,Paris,France,17,Negligible,0,9,8,Moderate,-19.40894569,9.54E+09,Advertising Agencies,Communication Services
+RAND.AS,Randstad N.V.,Diemen,Netherlands,12,Negligible,0,9,4,Moderate,35.79446246,9.64E+09,Staffing & Employment Services,Industrials
+MHK,Mohawk Industries Inc.,Calhoun,United states of america,15,Low,5.7,4.5,4.8,Moderate,16.60396717,9.68E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+NBL,Noble Energy Inc.,Houston,United states of america,41,Severe,21.3,11.2,8.2,Moderate,32.40938166,9.71E+09,Oil & Gas - E&P,Energy
+JMT.LS,"Jeronimo Martins, SGPS, S.A.",Lisboa,Portugal,17,Negligible,3,7,7,Moderate,41.8762089,9.74E+09,Food Distribution,Consumer Defensive
+PTC,PTC Inc.,Boston,United states of america,19,Low,1.3,11.2,6.5,Moderate,-9.662243667,9.79E+09,Application Software,Technology
+Z,Zillow Group Inc.,Guernsey,Guernsey,30,High,3.3,15.8,11.1,Moderate,45.47181761,9.82E+09,Real Estate Services,Real Estate
+NDSN,Nordson Corporation,Westlake,United states of america,30,High,10.8,13,6.5,Low,36.43904483,9.83E+09,Industrial Products,Industrials
+ON,ON Semiconductor Corporation,Phoenix,United states of america,25,Medium,12.9,6.3,6.1,,47.66807995,9.83E+09,Semiconductors,Technology
+VIAB,Viacom Inc.,New york city,United states of america,15,Low,0.1,6.6,8,Significant,-5.758754864,9.86E+09,Entertainment,Consumer Cyclical
+FBHS,Fortune Brands Home & Security Inc.,Deerfield,United states of america,26,Medium,14.3,3.7,7.7,,71.99262964,9.88E+09,Manufacturing - Apparel & Furniture,Consumer Cyclical
+DOX,Amdocs Limited,Chesterfield missouri,United states of america,18,Low,1.2,10.7,5.9,,23.23318539,9.92E+09,Application Software,Technology
+ETFC,E*TRADE Financial Corporation,New york city,United states of america,28,Medium,1.8,11.7,14.4,Moderate,3.39562443,9.92E+09,Brokers & Exchanges,Financial Services
+UMI.BR,Umicore SA,Bruxelles,Belgium,32,Severe,16,7,9,Moderate,24.38324727,9.92E+09,Pollution & Treatment Controls,Industrials
+CCL-B.TO,CCL Industries Inc.,Toronto,Canada,19,Negligible,13,2,5,Moderate,10.50739113,9.97E+09,Packaging & Containers,Consumer Cyclical
+AGNC,AGNC Investment Corp.,Bethesda,United states of america,20,Medium,3.8,6.5,10,,0.798175599,1.00E+10,REITs,Real Estate
+AC.PA,Accor SA,Issy-les-moulineaux,France,19,Negligible,7,7,5,Moderate,12.50336836,1.01E+10,Lodging,Consumer Cyclical
+SEIC,SEI Investments Company,Oaks,United states of america,28,Medium,3,12.6,12.7,Low,41.73160173,1.01E+10,Asset Management,Financial Services
+AABA,Altaba Inc.,New york,United states of america,33,High,3.2,14.4,15.1,Significant,-66.12012427,1.02E+10,Asset Management,Financial Services
+FGR.PA,Eiffage SA,Velizy villacoublay,France,36,Severe,7,16,14,Low,39.80263158,1.02E+10,Engineering & Construction,Industrials
+GLPI,Gaming and Leisure Properties Inc.,Wyomissing,United states of america,20,Low,6.1,7.1,6.8,,33.24048282,1.02E+10,REITs,Real Estate
+LPT,Liberty Property Trust,Wayne,United states of america,17,Negligible,5,6,6,Low,43.38586437,1.02E+10,REITs,Real Estate
+CCK,Crown Holdings Inc.,Yardley,United states of america,19,Negligible,13,2,4,Significant,74.50084195,1.03E+10,Packaging & Containers,Consumer Cyclical
+LKQ,LKQ Corporation,Chicago,United states of america,14,Low,4.6,5.3,4.3,Low,50.44247788,1.03E+10,Autos,Consumer Cyclical
+EDPR.LS,"EDP Renovaveis, S.A.",Madrid,Spain,85,Severe,82,86,90,Significant,34.96143959,1.04E+10,Utilities—Renewable,Utilities
+CLR,Continental Resources Inc.,Oklahoma city,United states of america,54,Severe,28.3,15,10.8,Low,-14.65538691,1.05E+10,Oil & Gas - E&P,Energy
+HSIC,Henry Schein Inc.,Melville,United states of america,15,Low,3.7,5.7,5.9,Moderate,8.346865866,1.05E+10,Medical Distribution,Healthcare
+REG,Regency Centers Corporation,Jacksonville,United states of america,11,Low,3.1,3,4.4,,7.515337423,1.05E+10,REITs,Real Estate
+VER,VEREIT Inc.,Phoenix,United states of america,19,Low,5.5,6.1,7.3,Significant,29.23076923,1.05E+10,REITs,Real Estate
+APA,Apache Corporation,Houston,United states of america,38,High,21.2,7.8,8.8,Low,-2.514285714,1.06E+10,Oil & Gas - E&P,Energy
+DVA,DaVita Inc.,Denver,United states of america,21,Medium,0.1,11.8,9.1,Moderate,45.8025651,1.06E+10,Health Care Providers,Healthcare
+NN.AS,NN Group N.V.,S-gravenhage,Netherlands,16,Negligible,1,7,7,Moderate,-2.816091954,1.06E+10,Insurance—Diversified,Financial Services
+PKI,PerkinElmer Inc.,Waltham,United states of america,21,Medium,1.6,12.6,7.1,Low,23.61553151,1.06E+10,Medical Diagnostics & Research,Healthcare
+URI,United Rentals Inc.,Stamford,United states of america,19,Low,5.3,7.3,6.8,Low,62.65483273,1.06E+10,Consulting & Outsourcing,Industrials
+ALO.PA,Alstom SA,Saint-ouen,France,16,Negligible,3,5,8,Significant,3.201368524,1.07E+10,Specialty Industrial Machinery,Industrials
+CPT,Camden Property Trust,Houston,United states of america,18,Negligible,5,6,7,,20.49971607,1.07E+10,REITs,Real Estate
+KPN.AS,Koninklijke KPN N.V.,Den haag,Netherlands,15,Negligible,2,7,6,Moderate,2.734375,1.07E+10,Telecom Services,Communication Services
+TXT,Textron Inc.,Providence,United states of america,39,High,11,20.2,7.3,Significant,-3.022396173,1.07E+10,Aerospace & Defense,Industrials
+TRMB,Trimble Inc.,Sunnyvale,United states of america,12,Negligible,2,5,5,Low,26.67882103,1.08E+10,Computer Hardware,Technology
+NI,NiSource Inc,Merrillville,United states of america,32,High,14.7,10.3,6.8,Significant,9.822485207,1.09E+10,Utilities - Regulated,Utilities
+FDS,FactSet Research Systems Inc.,Norwalk,United states of america,22,Medium,2.7,10.8,8.4,,34.06285914,1.10E+10,Brokers & Exchanges,Financial Services
+BAH,Booz Allen Hamilton Holding Corporation,Mc lean,United states of america,22,Medium,1.2,12.9,7.9,Moderate,57.82116707,1.11E+10,Business Services,Industrials
+CVE,Cenovus Energy Inc,Calgary,Canada,34,High,19.5,7.4,6.8,Low,44.38122333,1.11E+10,Oil & Gas - Integrated,Energy
+LNC,Lincoln National Corporation,Radnor,United states of america,21,Medium,1.4,8.1,11.8,Moderate,15.00682128,1.11E+10,Insurance - Life,Financial Services
+PNW,Pinnacle West Capital Corporation,Phoenix,United states of america,28,Medium,11.4,10.3,6,Moderate,5.551643192,1.11E+10,Utilities - Regulated,Utilities
+TSCO,Tractor Supply Company,Brentwood,United states of america,16,Low,3.7,8.2,4.3,Moderate,11.98465964,1.11E+10,Retail - Apparel & Specialty,Consumer Cyclical
+BVI.PA,Bureau Veritas SA,Neuilly-sur-seine,France,16,Negligible,0,10,7,Moderate,30.6741573,1.12E+10,Consulting Services,Industrials
+WTR,Aqua America Inc.,Bryn mawr,United states of america,39,Severe,20,12,7,Low,37.29160573,1.13E+10,Utilities - Regulated,Utilities
+ARMK,Aramark,Philadelphia,United states of america,29,Medium,6.3,15.5,7,Significant,49.81014843,1.13E+10,Restaurants,Consumer Cyclical
+MYL,Mylan N.V.,Hatfield,United kingdom,38,High,2.5,19.1,16,High,-26.64233577,1.13E+10,Drug Manufacturers,Healthcare
+TIT.BR,Telecom Italia S.p.A.,Milan,Italy,17,Negligible,3,8,7,Significant,12.24489796,1.13E+10,Telecom Services,Communication Services
+AVY,Avery Dennison Corporation,Glendale,United states of america,19,Low,13.3,1.6,4.3,Low,45.63063565,1.14E+10,Industrial Products,Industrials
+CNP.PA,CNP Assurances SA,Paris,France,19,Negligible,0,8,11,Low,-4.265658747,1.14E+10,Insurance—Life,Financial Services
+JEC,Jacobs Engineering Group Inc.,Dallas,United states of america,54,Medium,55,47,61,Significant,54.00273691,1.14E+10,Engineering & Construction,Industrials
+TER,Teradyne Inc.,North reading,United states of america,21,Medium,7.7,6.6,6.4,,117.3040153,1.15E+10,Semiconductors,Technology
+DPZ,Domino's Pizza Inc,Ann arbor,United states of america,28,Medium,6.1,14.5,7.1,Moderate,18.46445421,1.16E+10,Restaurants,Consumer Cyclical
+WU,Western Union Company (The),Denver,United states of america,21,Medium,0.1,12.9,8.3,Significant,56.97538101,1.16E+10,Banks,Financial Services
+Y,Alleghany Corporation,New york city,United states of america,33,Severe,3,13,18,Low,28.2760059,1.17E+10,Insurance - Property & Casualty,Financial Services
+NCLH,Norwegian Cruise Line Holdings Ltd.,Miami,United states of america,28,Medium,13.1,11.1,3.9,Moderate,37.79193206,1.17E+10,Travel & Leisure,Consumer Cyclical
+JKHY,Jack Henry & Associates Inc.,Monett,United states of america,19,Low,0.2,11.5,7.3,,15.13594689,1.18E+10,Business Services,Industrials
+AAL,American Airlines Group Inc.,Fort worth,United states of america,32,High,11.6,13.7,6.2,Moderate,-10.68203052,1.19E+10,Airlines,Industrials
+HST,Host Hotels & Resorts Inc.,Bethesda,United states of america,14,Low,4.1,4.8,5.5,,11.27774445,1.19E+10,REITs,Real Estate
+JBHT,J.B. Hunt Transport Services Inc.,Lowell,United states of america,21,Medium,6.3,8.4,6.3,Low,25.51590714,1.19E+10,Transportation & Logistics,Industrials
+ALLE,Allegion plc,Dublin,Ireland; republic of,24,Medium,13.5,4.2,6.2,,56.24137498,1.21E+10,Consulting & Outsourcing,Industrials
+ALLY,Ally Financial Inc.,Detroit,United states of america,25,Medium,0.2,15,9.8,Moderate,34.86319506,1.21E+10,Banks,Financial Services
+SJM,J.M. Smucker Company (The),Orrville,United states of america,33,High,10.8,16.4,6.2,Moderate,11.38089635,1.21E+10,Consumer Packaged Goods,Consumer Defensive
+TAP,Molson Coors Brewing Company Class B,Denver,United states of america,19,Low,5.5,7.9,6.1,Moderate,-4.024216524,1.22E+10,Beverages - Alcoholic,Consumer Defensive
+UHS,Universal Health Services Inc.,King of prussia,United states of america,34,High,3.4,19.5,11.1,High,23.07824296,1.23E+10,Health Care Providers,Healthcare
+CA.PA,Carrefour SA,Massy,France,19,Negligible,3,9,8,Significant,0.268276325,1.24E+10,Grocery Stores,Consumer Defensive
+CNA,CNA Financial Corporation,Chicago,United states of america,30,Severe,2,10,18,Low,1.494903737,1.24E+10,Insurance - Property & Casualty,Financial Services
+FMC,FMC Corporation,Philadelphia,United states of america,37,High,17.6,12.8,6.9,Moderate,55.604053,1.24E+10,Agriculture,Basic Materials
+PHM,PulteGroup Inc.,Atlanta,United states of america,22,Medium,7.6,9.1,5.2,Moderate,49.28818776,1.24E+10,Homebuilding & Construction,Consumer Cyclical
+EXPD,Expeditors International of Washington Inc.,Seattle,United states of america,19,Low,4,9.9,5,,14.5836393,1.25E+10,Transportation & Logistics,Industrials
+NTAP,NetApp Inc.,Sunnyvale,United states of america,20,Medium,3.2,10.4,6.5,,4.323780794,1.25E+10,Computer Hardware,Technology
+OTEX,Open Text Corporation,Waterloo,Canada,17,Low,1.3,10,5.8,,35.18404908,1.25E+10,Application Software,Technology
+ROL,Rollins Inc.,Atlanta,United states of america,22,Medium,9.9,6.9,5.4,,-8.144044321,1.25E+10,Business Services,Industrials
+IEX,IDEX Corporation,Lake forest,United states of america,34,High,10.9,15.2,7.5,Low,36.22683352,1.26E+10,Industrial Products,Industrials
+POW.TO,Power Corporation of Canada,Montreal,Canada,11,Negligible,1,3,7,Low,36.36363636,1.27E+10,Insurance—Life,Financial Services
+VNO,Vornado Realty Trust,New york,United states of america,17,Low,3.8,6.5,6.6,Low,7.206190553,1.27E+10,REITs,Real Estate
+XRAY,DENTSPLY SIRONA Inc.,Charlotte,United states of america,20,Medium,3.2,10.5,6.6,Low,52.08277345,1.28E+10,Medical Instruments & Equipment,Healthcare
+LBTYA,Liberty Global plc Class A Ordinary Shares,Hammersmith,United kingdom,16,Low,0,9.1,7.1,Low,6.560449859,1.28E+10,Communication Services,Communication Services
+SIVB,SVB Financial Group,Medan,Indonesia,27,Medium,2.3,11.5,13.3,,32.18197136,1.28E+10,Banks,Financial Services
+QRVO,Qorvo Inc.,Greensboro,United states of america,36,High,19.6,9,7.8,,91.38811131,1.30E+10,Semiconductors,Technology
+VAR,Varian Medical Systems Inc.,Palo alto,United states of america,27,Medium,3.2,12.8,10.8,,25.32874415,1.30E+10,Medical Devices,Healthcare
+WPM,Wheaton Precious Metals Corp (Canada),Vancouver,Canada,16,Low,5.6,2.9,7.8,Moderate,52.3297491,1.30E+10,Metals & Mining,Basic Materials
+BEN,Franklin Resources Inc.,San mateo,United states of america,20,Medium,1.3,10.8,8.3,Low,-12.40728254,1.31E+10,Asset Management,Financial Services
+CE,Celanese Corporation Series A,Irving,United states of america,34,High,15,10.2,9.1,Moderate,36.84561521,1.33E+10,Chemicals,Basic Materials
+CNHI,CNH Industrial N.V.,London,United kingdom,15,Low,2.5,5.4,7.3,Significant,19.43539631,1.33E+10,Farm & Construction Machinery,Industrials
+CNP,CenterPoint Energy Inc (Holding Co),Houston,United states of america,32,High,13.8,11.8,6.4,Moderate,-3.40063762,1.34E+10,Utilities - Regulated,Utilities
+AES,The AES Corporation,Arlington,United states of america,34,High,19.2,8.6,5.9,Moderate,37.62102351,1.34E+10,Utilities - Regulated,Utilities
+DRE,Duke Realty Corporation,Indianapolis,United states of america,17,Low,5.5,6.1,5.3,,33.86100386,1.35E+10,REITs,Real Estate
+FNF,FNF Group of Fidelity National Financial Inc.,Jacksonville,United states of america,29,Medium,2.5,9.8,17,Low,44.24300254,1.35E+10,Insurance - Specialty,Financial Services
+WYNN,Wynn Resorts Limited,Las vegas,United states of america,28,Medium,3.6,13.9,10.6,High,40.40036397,1.36E+10,Travel & Leisure,Consumer Cyclical
+CBOE,Cboe Global Markets Inc.,Chicago,United states of america,22,Medium,3,9.2,9.5,Moderate,22.6617602,1.37E+10,Brokers & Exchanges,Financial Services
+WRB,W.R. Berkley Corporation,Greenwich,United states of america,29,Medium,2,11,16.2,Low,40.24761518,1.37E+10,Insurance - Property & Casualty,Financial Services
+MT.AS,ArcelorMittal,Luxembourg,Luxembourg,35,Severe,14,14,7,High,-13.78169791,1.38E+10,Steel,Basic Materials
+EN.PA,Bouygues SA,Paris,France,35,Severe,8,15,12,Low,20.86790045,1.38E+10,Engineering & Construction,Industrials
+MRU.TO,Metro Inc.,Montreal,Canada,20,Negligible,5,9,6,Significant,13.20236586,1.38E+10,Grocery Stores,Consumer Defensive
+MAS,Masco Corporation,Livonia,United states of america,21,Medium,10.7,3.8,6.2,Low,64.124487,1.39E+10,Building Materials,Basic Materials
+NLY,Annaly Capital Management Inc,New york city,United states of america,18,Low,4.2,6.6,7.5,,-4.073319756,1.40E+10,REITs,Real Estate
+HBAN,Huntington Bancshares Incorporated,Columbus,United states of america,23,Medium,2.5,11.6,8.9,Moderate,26.51006711,1.40E+10,Banks,Financial Services
+GPC,Genuine Parts Company,Atlanta,United states of america,13,Negligible,4,5,4,Moderate,10.63320142,1.41E+10,Retail - Apparel & Specialty,Consumer Cyclical
+HAS,Hasbro Inc.,Pawtucket,United states of america,12,Low,0,6.7,5.6,Moderate,29.98153846,1.41E+10,Travel & Leisure,Consumer Cyclical
+UDR,UDR Inc.,Highlands ranch,United states of america,19,Low,5.7,6.9,6.2,,17.86976275,1.41E+10,REITs,Real Estate
+IFF,Internationa Flavors & Fragrances Inc.,New york city,United states of america,25,Medium,10.9,5.9,8.1,Low,-3.910032025,1.42E+10,Chemicals,Basic Materials
+LNT,Alliant Energy Corporation,Madison,United states of america,35,High,18.5,10.1,6.8,Moderate,29.5147929,1.43E+10,Utilities - Regulated,Utilities
+EMA.TO,Emera Incorporated,Halifax,Canada,35,Severe,18,11,7,Moderate,27.63669641,1.43E+10,Utilities—Diversified,Utilities
+EXR,Extra Space Storage Inc,Salt lake city,United states of america,16,Negligible,5,4,7,Low,16.73297966,1.43E+10,REITs,Real Estate
+GBLB.BR,Groupe Bruxelles Lambert SA,Bruxelles,Belgium,14,Negligible,0,3,11,,23.50157729,1.43E+10,Asset Management,Financial Services
+HOLX,Hologic Inc.,Marlborough,United states of america,36,High,4.7,20.4,11.4,Moderate,27.03163017,1.43E+10,Medical Instruments & Equipment,Healthcare
+ATO,Atmos Energy Corporation,Dallas,United states of america,35,Severe,14,15,7,Moderate,20.64279551,1.44E+10,Utilities - Regulated,Utilities
+DRI,Darden Restaurants Inc.,Orlando,United states of america,22,Medium,5.9,11.9,4.6,Moderate,9.162827959,1.44E+10,Restaurants,Consumer Cyclical
+DOL.TO,Dollarama Inc.,Mont-royal,Canada,16,Negligible,3,8,6,Moderate,37.4499538,1.44E+10,Discount Stores,Consumer Defensive
+IT,Gartner Inc.,Stamford,United states of america,29,Medium,0.2,19.7,9.1,Low,20.54130163,1.46E+10,Application Software,Technology
+LDOS,Leidos Holdings Inc.,Reston,United states of america,20,Medium,1.2,12.6,6.7,Low,85.67905918,1.46E+10,Application Software,Technology
+WPC,W.P. Carey Inc. REIT,New york city,United states of america,19,Low,6.8,6.6,6.1,,22.49770432,1.46E+10,Real Estate Services,Real Estate
+AEM,Agnico Eagle Mines Limited,Toronto,Canada,28,Medium,13.5,9.1,5.7,Moderate,52.5,1.47E+10,Metals & Mining,Basic Materials
+CVE.TO,Cenovus Energy Inc.,Calgary,Canada,34,Severe,20,7,7,Low,37.5,1.47E+10,Oil & Gas Integrated,Energy
+NUE,Nucor Corporation,Charlotte,United states of america,38,High,14.5,14.3,9,Significant,8.627678054,1.47E+10,Steel,Basic Materials
+NVR,NVR Inc.,Reston,United states of america,20,Medium,6.4,8.3,5.3,Moderate,56.27515911,1.47E+10,Homebuilding & Construction,Consumer Cyclical
+VIE.PA,Veolia Environnement S.A.,Paris,France,34,Severe,14,11,9,Significant,32.0155902,1.47E+10,Waste Management,Industrials
+WAT,Waters Corporation,Milford,United states of america,20,Low,1.6,11.2,6.8,,23.85369732,1.47E+10,Computer Hardware,Technology
+BR,Broadridge Financial Solutions Inc.Common Stock,New hyde park,United states of america,20,Low,0.1,12.1,7.6,,28.35324675,1.48E+10,Business Services,Industrials
+CPB,Campbell Soup Company,Camden,United states of america,24,Medium,9,9.9,5.5,Moderate,49.8029706,1.48E+10,Consumer Packaged Goods,Consumer Defensive
+ABN.AS,ABN AMRO Bank N.V.,Amsterdam,Netherlands,86,Severe,90,85,84,Significant,-21.03213242,1.49E+10,Banks—Diversified,Financial Services
+RF,Regions Financial Corporation,Birmingham,United states of america,20,Low,1.5,10.5,8,Moderate,28.25112108,1.49E+10,Banks,Financial Services
+DIM.PA,Sartorius Stedim Biotech S.A.,Aubagne,France,19,Negligible,2,9,8,,69.08986835,1.50E+10,Medical Instruments & Supplies,Healthcare
+CTL,CenturyLink Inc.,Monroe,United states of america,26,Medium,4.8,13.2,7.9,Moderate,-12.80528053,1.51E+10,Communication Services,Communication Services
+PFG,Principal Financial Group Inc,Des moines,United states of america,22,Medium,1.9,8.6,11.9,Moderate,24.51890423,1.51E+10,Insurance - Life,Financial Services
+DGX,Quest Diagnostics Incorporated,Secaucus,United states of america,19,Low,0.1,10.3,8.6,Significant,28.24546655,1.51E+10,Medical Diagnostics & Research,Healthcare
+XYL,Xylem Inc. New,Rye brook,United states of america,18,Negligible,3,10,5,Moderate,18.09052758,1.51E+10,Industrial Products,Industrials
+LNG,Cheniere Energy Inc.,Houston,United states of america,28,Medium,14.4,8.5,4.7,Moderate,3.176212198,1.52E+10,Oil & Gas - Midstream,Energy
+DISCA,Discovery Communications Inc. Series A Common Stock,Silver spring,United states of america,18,Low,0.2,9.1,8.8,,32.33629749,1.52E+10,Entertainment,Consumer Cyclical
+AKAM,Akamai Technologies Inc.,Cambridge,United states of america,21,Medium,1.8,11.8,7.3,Low,41.4210871,1.53E+10,Application Software,Technology
+BMRN,BioMarin Pharmaceutical Inc.,Novato,United states of america,27,Medium,0.1,18.9,8.1,Low,-0.704638873,1.53E+10,Biotechnology,Healthcare
+STX,Seagate Technology PLC,Dublin,Ireland; republic of,15,Low,1.6,7.9,5.8,Moderate,54.18502203,1.53E+10,Computer Hardware,Technology
+UCB.BR,UCB SA,Anderlecht,Belgium,30,Severe,1,18,11,Moderate,-0.561009818,1.54E+10,Biotechnology,Healthcare
+CAH,Cardinal Health Inc.,Dublin ohio,United states of america,16,Low,1.9,8.9,5.5,Significant,13.40807175,1.56E+10,Medical Distribution,Healthcare
+L,Loews Corporation,New york city,United states of america,32,High,2.4,11.6,18.2,Moderate,15.31195079,1.56E+10,Insurance - Property & Casualty,Financial Services
+LSXMK,Liberty Media Corporation Series C Liberty SiriusXM Common Stock,Englewood,United states of america,19,Low,0.2,9.4,9.9,Low,30.17847485,1.57E+10,Entertainment,Consumer Cyclical
+MAA,Mid-America Apartment Communities Inc.,Germantown,United states of america,19,Negligible,5,7,6,Low,37.78474399,1.57E+10,REITs,Real Estate
+ULTA,Ulta Beauty Inc.,Bolingbrook,United states of america,17,Low,4.2,7.4,5.7,Moderate,3.389968959,1.57E+10,Retail - Apparel & Specialty,Consumer Cyclical
+CXO,Concho Resources Inc.,Midland,United states of america,52,Severe,27.2,14,10.6,Low,-14.80688783,1.58E+10,Oil & Gas - E&P,Energy
+EXPE,Expedia Inc.,Seattle,United states of america,23,Medium,4.1,10.8,8.3,Moderate,-4.003550821,1.58E+10,Travel & Leisure,Consumer Cyclical
+MGA,Magna International Inc.,Aurora,Canada,22,Medium,5.6,9.9,6.2,Low,20.66006601,1.58E+10,Autos,Consumer Cyclical
+CTXS,Citrix Systems Inc.,Fort lauderdale,United states of america,18,Low,1.2,10.8,6.3,,8.237360921,1.60E+10,Application Software,Technology
+MGM,MGM Resorts International,Las vegas,United states of america,25,Medium,2.2,11.1,12,Moderate,37.13932399,1.61E+10,Travel & Leisure,Consumer Cyclical
+KMX,CarMax Inc,Richmond,United states of america,13,Negligible,0,9,4,Moderate,39.75769169,1.62E+10,Autos,Consumer Cyclical
+CAG,ConAgra Brands Inc.,Chicago,United states of america,29,Medium,9.4,13.9,5.8,Significant,60.29962547,1.62E+10,Consumer Packaged Goods,Consumer Defensive
+MKL,Markel Corporation,Glen allen,United states of america,31,Severe,2,11,18,Moderate,10.12667983,1.62E+10,Insurance - Property & Casualty,Financial Services
+TIF,Tiffany & Co.,New york city,United states of america,18,Low,2.5,9.8,5.4,Moderate,66.00422308,1.62E+10,Retail - Apparel & Specialty,Consumer Cyclical
+FFH.TO,Fairfax Financial Holdings Limited,Toronto,Canada,34,Severe,2,13,19,Moderate,1.457619222,1.63E+10,Insuranceâ€”Property & Casualty,Financial Services
+SSNC,SS&C Technologies Holdings Inc.,Windsor,United states of america,24,Medium,1.4,14.8,7.9,Moderate,36.11172689,1.63E+10,Application Software,Technology
+CFG,Citizens Financial Group Inc.,Providence,United states of america,28,Medium,1.8,14.2,11.9,Significant,36.59603095,1.64E+10,Banks,Financial Services
+FCX,Freeport-McMoRan Inc.,Phoenix,United states of america,40,Severe,21.7,11.8,6.8,Severe,27.25509214,1.64E+10,Metals & Mining,Basic Materials
+KSU,Kansas City Southern,Kansas city,United states of america,22,Medium,8.8,9.9,3.9,Moderate,60.46097433,1.64E+10,Transportation & Logistics,Industrials
+IP,International Paper Company,Memphis,United states of america,27,Medium,17,4.2,5.3,Significant,14.09811695,1.65E+10,Packaging & Containers,Consumer Cyclical
+OMC,Omnicom Group Inc.,New york,United states of america,18,Low,0.1,10.1,7.9,Moderate,10.6226106,1.65E+10,Advertising & Marketing Services,Consumer Cyclical
+MRVL,Marvell Technology Group Ltd.,Hamilton,Bermuda,22,Medium,5.8,8.8,7.5,Moderate,64.05188388,1.66E+10,Semiconductors,Technology
+MLM,Martin Marietta Materials Inc.,Raleigh,United states of america,33,High,19.2,4.7,8.7,Moderate,62.70436958,1.67E+10,Building Materials,Basic Materials
+BAP,Credicorp Ltd.,Hamilton,Bermuda,31,High,2.2,13.6,15.1,Moderate,-3.852573646,1.68E+10,Banks,Financial Services
+MXIM,Maxim Integrated Products Inc.,San jose,United states of america,24,Medium,9.4,7.2,7.2,,20.96361849,1.68E+10,Semiconductors,Technology
+SAP.TO,Saputo Inc.,St-leonard,Canada,37,Severe,15,15,7,Moderate,2.577188058,1.68E+10,Packaged Foods,Consumer Defensive
+GWW,W.W. Grainger Inc.,Lake forest,United states of america,13,Low,1.4,5.2,6.5,Low,19.88950276,1.68E+10,Industrial Distribution,Industrials
+ADP.PA,Aeroports de Paris SA,Tremblay-en-france,France,18,Negligible,2,9,6,,6.404833837,1.69E+10,Airports & Air Services,Industrials
+DOV,Dover Corporation,Downers grove,United states of america,33,High,9.4,15.5,8,Low,62.45243129,1.73E+10,Industrial Products,Industrials
+CINF,Cincinnati Financial Corporation,Fairfield,United states of america,27,Medium,1.7,9.1,15.8,Moderate,35.81761819,1.74E+10,Insurance - Property & Casualty,Financial Services
+LH,Laboratory Corporation of America Holdings,Burlington,United states of america,20,Negligible,1,11,8,Moderate,33.87939221,1.74E+10,Medical Diagnostics & Research,Healthcare
+ANET,Arista Networks Inc.,Santa clara,United states of america,20,Low,0.9,9.6,9,Moderate,-3.464641671,1.77E+10,Computer Hardware,Technology
+HES,Hess Corporation,New york city,United states of america,32,High,17.5,6.8,7.2,Low,64.96296296,1.78E+10,Oil & Gas - E&P,Energy
+CHD,Church & Dwight Company Inc.,Ewing,United states of america,25,Medium,8.9,8.6,8,Moderate,6.979927007,1.79E+10,Consumer Packaged Goods,Consumer Defensive
+KEYS,Keysight Technologies Inc.,Santa rosa california,United states of america,10,Negligible,1.6,2.7,5.4,Low,65.3189433,1.80E+10,Computer Hardware,Technology
+ABC,AmerisourceBergen Corporation,Chesterbrook,United states of america,18,Low,2.6,9.1,6.1,Significant,14.27419355,1.83E+10,Medical Distribution,Healthcare
+S,Sprint Corporation,Overland park,United states of america,27,Medium,3,14.8,9.4,Moderate,-10.48109966,1.83E+10,Communication Services,Communication Services
+EFX,Equifax Inc.,Atlanta,United states of america,28,Medium,0.2,21,7.1,Severe,50.45635134,1.85E+10,Business Services,Industrials
+QSR,Restaurant Brands International Inc.,Toronto,Canada,27,Medium,6.6,12.1,8,Significant,21.93116635,1.85E+10,Restaurants,Consumer Cyclical
+HPE,Hewlett Packard Enterprise Company,San jose,United states of america,17,Low,0.8,9.8,6.6,Moderate,20.06056018,1.86E+10,Communication Equipment,Technology
+KEY,KeyCorp,Cleveland,United states of america,25,Medium,2.1,11.8,10.7,Moderate,36.94181326,1.86E+10,Banks,Financial Services
+AJG,Arthur J. Gallagher & Co.,Rolling meadows,United states of america,25,Medium,0.1,11,13.9,Moderate,29.21302578,1.87E+10,Brokers & Exchanges,Financial Services
+VMC,Vulcan Materials Company (Holding Company),Birmingham,United states of america,33,High,19.7,4.8,8.8,Moderate,45.7388664,1.88E+10,Building Materials,Basic Materials
+GRMN,Garmin Ltd.,Schaffhausen,Switzerland,21,Medium,5.3,9.8,6.1,Low,54.07454201,1.89E+10,Computer Hardware,Technology
+MTD,Mettler-Toledo International Inc.,Columbus,United states of america,12,Low,0.9,5.7,5.9,Low,40.25955656,1.89E+10,Medical Instruments & Equipment,Healthcare
+CAP.PA,Capgemini SE,Paris,France,15,Negligible,1,8,6,Moderate,25.46082949,1.90E+10,Information Technology Services,Technology
+ML.PA,Compagnie Generale des Etablissements Michelin,Clermont-ferrand,France,17,Negligible,4,6,7,Moderate,25.83621684,1.90E+10,Auto Parts,Consumer Cyclical
+FRC,FIRST REPUBLIC BANK,San francisco,United states of america,26,Medium,2,12.5,11.8,Low,35.15535098,1.90E+10,Banks,Financial Services
+NDAQ,Nasdaq Inc.,New york,United states of america,17,Negligible,2,8,7,Moderate,31.29827142,1.90E+10,Brokers & Exchanges,Financial Services
+CDW,CDW Corporation,Vernon hills,United states of america,11,Low,3.6,3.5,4,,76.23689081,1.92E+10,Application Software,Technology
+CMS,CMS Energy Corporation,Jackson,United states of america,28,Medium,13.6,9.1,4.9,Moderate,26.56596173,1.93E+10,Utilities - Regulated,Utilities
+DB,Deutsche Bank AG,Frankfurt,Germany,34,High,2,16.2,15.9,High,-4.539877301,1.93E+10,Banks,Financial Services
+HAL,Halliburton Company,Houston,United states of america,31,High,11.3,11.3,8.1,Moderate,-7.938299473,1.93E+10,Oil & Gas - Services,Energy
+DSM.AS,Koninklijke DSM N.V.,Heerlen,Netherlands,19,Negligible,9,5,6,Low,62.51399776,1.93E+10,Specialty Chemicals,Basic Materials
+DISH,DISH Network Corporation,Englewood,United states of america,21,Medium,2.4,9.2,9.1,Significant,42.05046055,1.94E+10,Communication Services,Communication Services
+CLX,Clorox Company (The),Oakland,United states of america,23,Medium,8.2,8,7.3,Moderate,-0.38925652,1.96E+10,Consumer Packaged Goods,Consumer Defensive
+LR.PA,Legrand SA,Limoges,France,19,Negligible,5,6,8,Moderate,47.34279919,1.96E+10,Specialty Industrial Machinery,Industrials
+EDU,New Oriental Education & Technology Group Inc. Sponsored ADR representing 1 (Cayman Islands),Beijing,China,16,Low,0.2,9.4,6.1,Moderate,121.2187557,1.96E+10,Education,Consumer Defensive
+UAL,United Continental Holdings,Chicago,United states of america,29,Medium,10.2,13.5,5.7,Moderate,5.207213663,1.97E+10,Airlines,Industrials
+NOKIA.PA,Nokia Corporation,Espoo,Finland,14,Negligible,1,7,6,Moderate,-34.58498024,1.98E+10,Communication Equipment,Technology
+SWKS,Skyworks Solutions Inc.,Woburn,United states of america,32,High,14.6,9.1,8.6,,80.36407043,1.98E+10,Semiconductors,Technology
+WDC,Western Digital Corporation,San jose,United states of america,18,Low,2.9,7.6,7.4,Low,71.67974033,1.99E+10,Computer Hardware,Technology
+AEE,Ameren Corporation,St. louis,United states of america,36,High,18,11.4,6.5,Moderate,17.73723747,2.01E+10,Utilities - Regulated,Utilities
+FTNT,Fortinet Inc.,Sunnyvale,United states of america,22,Medium,1.4,13.9,6.3,Moderate,51.58313219,2.02E+10,Application Software,Technology
+FTS,Fortis Inc.,St. johns,Canada,27,Medium,11.1,10.2,5.7,Moderate,24.46043165,2.03E+10,Utilities - Regulated,Utilities
+SYF,Synchrony Financial,Stamford,United states of america,22,Medium,0.2,12.8,8.7,Moderate,53.49531117,2.04E+10,Credit Services,Financial Services
+CDNS,Cadence Design Systems Inc.,San jose,United states of america,17,Low,1.2,10.6,5.5,,59.52161914,2.05E+10,Application Software,Technology
+ESS,Essex Property Trust Inc.,San mateo,United states of america,16,Low,4.4,5.2,6.6,Low,22.694833,2.06E+10,REITs,Real Estate
+CBRE,CBRE Group Inc Class A,Los angeles,United states of america,7,Negligible,1,2.7,3.6,Low,53.07192807,2.07E+10,Real Estate Services,Real Estate
+DLTR,Dollar Tree Inc.,Chesapeake,United states of america,20,Low,3.9,9.9,6.1,Moderate,4.12976085,2.07E+10,Retail - Defensive,Consumer Defensive
+FAST,Fastenal Company,Winona,United states of america,22,Medium,7.2,7.8,7.1,Moderate,41.3001912,2.07E+10,Industrial Distribution,Industrials
+FITB,Fifth Third Bancorp,Cincinnati,United states of america,27,Medium,2.2,13,11.3,Moderate,30.64173396,2.07E+10,Banks,Financial Services
+LEN,Lennar Corporation Class A,Miami,United states of america,23,Medium,7.9,9.3,6.2,Moderate,42.50319285,2.07E+10,Homebuilding & Construction,Consumer Cyclical
+GIB,CGI Group Inc.,Montreal,Canada,20,Low,1.2,11.3,7.2,,36.80339925,2.10E+10,Application Software,Technology
+NTRS,Northern Trust Corporation,Chicago,United states of america,25,Medium,2.2,12.3,10.8,Moderate,27.09654265,2.12E+10,Asset Management,Financial Services
+ARE,Alexandria Real Estate Equities Inc.,Pasadena,United states of america,15,Negligible,2,7,5,,40.21173204,2.13E+10,REITs,Real Estate
+GLW,Corning Incorporated,Corning,United states of america,20,Low,7.1,5.1,7.7,Moderate,-3.641178418,2.13E+10,Computer Hardware,Technology
+FNV,Franco-Nevada Corporation,Toronto,Canada,17,Negligible,6,3,7,Moderate,47.21390908,2.14E+10,Metals & Mining,Basic Materials
+HIG,Hartford Financial Services Group Inc. (The),Hartford,United states of america,21,Medium,1.5,8.6,10.5,Moderate,36.71541057,2.15E+10,Insurance,Financial Services
+VTR,Ventas Inc.,Chicago,United states of america,14,Low,4.8,4.4,4.6,,-1.450759515,2.16E+10,REITs,Real Estate
+XLNX,Xilinx Inc.,San jose,United states of america,23,Medium,9.6,5.9,7.5,,14.79394153,2.17E+10,Semiconductors,Technology
+DXCM,DexCom Inc.,San diego,United states of america,42,Severe,6.5,22.5,13.1,Moderate,82.58764608,2.19E+10,Medical Diagnostics & Research,Healthcare
+MKC,McCormick & Company Incorporated,Sparks,United states of america,32,Severe,11,15,6,Moderate,21.89744326,2.20E+10,Consumer Packaged Goods,Consumer Defensive
+DHI,D.R. Horton Inc.,Arlington,United states of america,21,Medium,7.5,7.5,5.9,Moderate,52.19272937,2.21E+10,Homebuilding & Construction,Consumer Cyclical
+KR,Kroger Company (The),Cincinnati,United states of america,20,Low,4.7,9.4,5.9,Significant,5.418181818,2.21E+10,Retail - Defensive,Consumer Defensive
+ALXN,Alexion Pharmaceuticals Inc.,Boston,United states of america,27,Medium,0.1,18.8,8.2,Significant,11.08258012,2.22E+10,Biotechnology,Healthcare
+BXP,Boston Properties Inc.,Boston,United states of america,14,Low,3.8,5.1,5.4,Low,22.48778321,2.22E+10,REITs,Real Estate
+MTB,M&T Bank Corporation,Buffalo,United states of america,28,Medium,2.1,12.5,13.3,Moderate,18.59847691,2.23E+10,Banks,Financial Services
+APTV,Aptiv PLC,Dublin,Ireland; republic of,19,Low,4.1,7.5,7.7,Moderate,54.24719831,2.24E+10,Autos,Consumer Cyclical
+WY,Weyerhaeuser Company,Seattle,United states of america,19,Low,10.9,3.8,4.8,Significant,38.15187557,2.24E+10,Forest Products,Basic Materials
+BBY,Best Buy Co. Inc.,Richfield,United states of america,12,Low,2.1,5.2,4.6,Moderate,65.78549849,2.25E+10,Retail - Apparel & Specialty,Consumer Cyclical
+ROK,Rockwell Automation Inc.,Milwaukee,United states of america,22,Medium,6.6,9.1,6.8,Moderate,34.68234981,2.25E+10,Industrial Products,Industrials
+SNPS,Synopsys Inc.,Mountain view,United states of america,20,Negligible,1,13,6,Low,65.24216524,2.27E+10,Application Software,Technology
+PXD,Pioneer Natural Resources Company,Irving,United states of america,45,Severe,23.3,12.7,9.2,Low,15.09276156,2.28E+10,Oil & Gas - E&P,Energy
+CERN,Cerner Corporation,Kansas city,United states of america,20,Low,0.1,12.9,6.9,Moderate,39.95041953,2.29E+10,Application Software,Technology
+K,Kellogg Company,Battle creek,United states of america,26,Medium,7,13.8,5.2,Moderate,21.31205052,2.35E+10,Consumer Packaged Goods,Consumer Defensive
+STM.PA,STMicroelectronics N.V.,Plan-les-ouates,Switzerland,13,Negligible,3,4,6,,91.91353082,2.36E+10,Semiconductors,Technology
+DFS,Discover Financial Services,Riverwoods,United states of america,21,Medium,0.1,10.8,9.9,Low,43.81146151,2.37E+10,Credit Services,Financial Services
+CPRT,Copart Inc.,Dallas,United states of america,24,Medium,4.5,11.5,8.1,Low,90.33068229,2.38E+10,Autos,Consumer Cyclical
+ANSS,ANSYS Inc.,Canonsburg,United states of america,16,Negligible,1,10,5,,80.08255212,2.39E+10,Application Software,Technology
+BLL,Ball Corporation,Broomfield,United states of america,15,Low,9.4,1,4.5,Low,40.64810787,2.39E+10,Packaging & Containers,Consumer Cyclical
+IDXX,IDEXX Laboratories Inc.,Westbrook,United states of america,36,Severe,5,19,12,,40.37737878,2.43E+10,Medical Diagnostics & Research,Healthcare
+AD.AS,Koninklijke Ahold Delhaize N.V.,Zaandam,Netherlands,18,Negligible,5,8,4,Moderate,0.996376812,2.43E+10,Grocery Stores,Consumer Defensive
+MCHP,Microchip Technology Incorporated,Chandler,United states of america,34,High,16.2,9.4,8.5,Low,45.60622914,2.43E+10,Semiconductors,Technology
+MSCI,MSCI Inc,New york city,United states of america,23,Medium,0.1,16.4,6.7,Low,75.12039612,2.44E+10,Brokers & Exchanges,Financial Services
+TU,Telus Corporation,Vancouver,Canada,20,Negligible,4,11,6,Moderate,16.86783343,2.44E+10,Communication Services,Communication Services
+CMG,Chipotle Mexican Grill Inc.,Newport beach,United states of america,25,Medium,4.3,14.5,6.2,Significant,93.86970518,2.45E+10,Restaurants,Consumer Cyclical
+AWK,American Water Works Company Inc.,Camden,United states of america,29,Medium,13.1,10.1,6.1,Moderate,35.34207337,2.47E+10,Utilities - Regulated,Utilities
+NTR,Nutrien Ltd.,Saskatoon,Canada,47,Severe,20.2,18.1,9.1,Significant,1.936170213,2.47E+10,Agriculture,Basic Materials
+GLE.PA,Societe Generale Societe anonyme,Paris,France,33,Severe,2,15,16,Significant,11.46657081,2.48E+10,Banks—Regional,Financial Services
+SPLK,Splunk Inc.,San francisco,United states of america,21,Medium,1.5,13.5,6.1,,42.84215546,2.48E+10,Application Software,Technology
+VRSN,VeriSign Inc.,Reston,United states of america,24,Medium,3.1,12.5,8.1,,29.93458763,2.50E+10,Online Media,Technology
+RCL,Royal Caribbean Cruises Ltd.,Miami,United states of america,22,Medium,9.9,8,4.1,Significant,36.52725228,2.51E+10,Travel & Leisure,Consumer Cyclical
+SWK,Stanley Black & Decker Inc.,New britain,United states of america,32,High,7,16.5,8.6,Low,38.41656923,2.51E+10,Industrial Products,Industrials
+CMI,Cummins Inc.,Columbus,United states of america,19,Low,3.3,9.1,6.4,Moderate,33.91200239,2.54E+10,Industrial Products,Industrials
+ADM,Archer-Daniels-Midland Company,Chicago,United states of america,35,High,15.9,13.6,5.9,Significant,13.13155968,2.55E+10,Consumer Packaged Goods,Consumer Defensive
+AZO,AutoZone Inc.,Memphis,United states of america,12,Negligible,0,8,4,Moderate,42.10344252,2.56E+10,Retail - Apparel & Specialty,Consumer Cyclical
+DTE,DTE Energy Company,Detroit,United states of america,31,Severe,14,10,6,Moderate,17.7425204,2.56E+10,Utilities - Regulated,Utilities
+FTV,Fortive Corporation,Everett,United states of america,32,High,10.5,14.6,7.1,Moderate,12.90274904,2.56E+10,Computer Hardware,Technology
+HRL,Hormel Foods Corporation,Austin,United states of america,28,Medium,10.5,12.3,5.2,Moderate,5.693533271,2.56E+10,Consumer Packaged Goods,Consumer Defensive
+O,Realty Income Corporation,San diego,United states of america,18,Low,6.7,6.7,4.9,Low,16.79885787,2.57E+10,REITs,Real Estate
+TWTR,Twitter Inc.,San francisco,United states of america,24,Medium,3.1,11.9,8.8,Moderate,11.51704941,2.58E+10,Online Media,Technology
+WCN,Waste Connections Inc.,Concord,Canada,24,Medium,13,7.2,4.3,Low,22.27609428,2.58E+10,Waste Management,Industrials
+WMB,Williams Companies Inc. (The),Tulsa,United states of america,32,High,15.4,13.2,3.3,Significant,7.573696145,2.58E+10,Oil & Gas - Midstream,Energy
+A,Agilent Technologies Inc.,Santa clara,United states of america,18,Low,0.9,9.4,7.2,Moderate,26.46012452,2.62E+10,Medical Diagnostics & Research,Healthcare
+DLR,Digital Realty Trust Inc.,San francisco,United states of america,14,Low,3.4,5.4,5.6,Low,12.37916471,2.62E+10,REITs,Real Estate
+ETR,Entergy Corporation,New orleans,United states of america,35,Severe,15,14,6,Moderate,39.18903218,2.62E+10,Utilities - Regulated,Utilities
+FCAU,Fiat Chrysler Automobiles N.V.,London,United kingdom,29,Medium,9.7,9,10,Significant,1.590594744,2.62E+10,Autos,Consumer Cyclical
+PCAR,PACCAR Inc.,Bellevue,United states of america,35,High,8.2,17.3,9.6,Significant,38.4319216,2.63E+10,Truck Manufacturing,Industrials
+PH,Parker-Hannifin Corporation,Cleveland,United states of america,30,Medium,7,14.7,7.9,Moderate,38.00455947,2.64E+10,Industrial Products,Industrials
+PPL,PPL Corporation,Allentown,United states of america,36,High,18.7,10.1,7.1,Moderate,26.65019414,2.64E+10,Utilities - Regulated,Utilities
+MCK,McKesson Corporation,Irving,United states of america,20,Low,2.1,11.6,6.3,High,25.21046438,2.65E+10,Medical Distribution,Healthcare
+AMTD,TD Ameritrade Holding Corporation,Omaha,United states of america,30,Medium,0.7,12.5,16.6,Moderate,1.511437908,2.66E+10,Brokers & Exchanges,Financial Services
+VRSK,Verisk Analytics Inc.,Jersey city,United states of america,22,Medium,0.1,14.6,7,Low,36.95891416,2.70E+10,Business Services,Industrials
+KLAC,KLA-Tencor Corporation,Milpitas,United states of america,19,Low,5.7,7.2,6.3,,99.09487094,2.73E+10,Semiconductors,Technology
+EIX,Edison International,Rosemead,United states of america,38,High,18.5,12,7.8,Significant,32.83424344,2.75E+10,Utilities - Regulated,Utilities
+FE,FirstEnergy Corporation,Akron,United states of america,40,High,18.5,14.1,7.2,Moderate,29.42743009,2.75E+10,Utilities - Regulated,Utilities
+WLTW,Willis Towers Watson Public Limited Company,London,United kingdom,22,Medium,0.2,11,10.6,Moderate,32.97774266,2.76E+10,Brokers & Exchanges,Financial Services
+GIB-A.TO,CGI Inc.,Montreal,Canada,20,Negligible,1,11,7,,30.14371257,2.77E+10,Information Technology Services,Technology
+STT,State Street Corporation,Boston,United states of america,21,Medium,1.9,11.3,8,Moderate,25.41620422,2.77E+10,Asset Management,Financial Services
+LYB,LyondellBasell Industries NV Class A (Netherlands),London,United kingdom,26,Medium,15.6,2.8,7.1,Moderate,13.61231361,2.78E+10,Chemicals,Basic Materials
+FLT,FleetCor Technologies Inc.,Atlanta,United states of america,20,Low,0.2,11.8,7.7,Low,54.92138703,2.79E+10,Business Services,Industrials
+EBAY,eBay Inc.,San jose,United states of america,20,Medium,1.7,11.1,7.4,Moderate,28.64267902,2.85E+10,Retail - Apparel & Specialty,Consumer Cyclical
+SBAC,SBA Communications Corporation,Boca raton,United states of america,17,Low,2.4,7.8,7.1,,48.86033727,2.86E+10,Communication Services,Communication Services
+TAL,TAL Education Group American Depositary Shares,Beijing,China,15,Low,0.2,9.5,5.2,,80.65967016,2.87E+10,Education,Consumer Defensive
+VIV.PA,Vivendi SA,Paris,France,13,Negligible,0,5,8,Moderate,21.33458647,2.88E+10,Broadcasting,Communication Services
+LUV,Southwest Airlines Company,Dallas,United states of america,32,High,9.7,15.9,6.4,Moderate,16.13597246,2.90E+10,Airlines,Industrials
+PPG,PPG Industries Inc.,Pittsburgh,United states of america,31,Severe,12,10,9,Moderate,30.57810819,2.91E+10,Chemicals,Basic Materials
+CTAS,Cintas Corporation,Cincinnati,United states of america,26,Medium,5.5,12.4,7.6,Moderate,60.17620096,2.94E+10,Retail - Apparel & Specialty,Consumer Cyclical
+SCCO,Southern Copper Corporation,Phoenix,United states of america,48,Severe,21,19.6,6.8,Severe,38.05654859,3.00E+10,Metals & Mining,Basic Materials
+ES,Eversource Energy (D/B/A),Springfield,United states of america,24,Medium,7.8,9.6,6.6,Moderate,30.79643296,3.02E+10,Utilities - Regulated,Utilities
+PEG,Public Service Enterprise Group Incorporated,Newark,United states of america,29,Medium,14.2,9.3,5.5,Moderate,13.44860711,3.03E+10,Utilities - Regulated,Utilities
+AVB,AvalonBay Communities Inc.,Arlington,United states of america,13,Negligible,4,4,5,Low,20.48261994,3.04E+10,REITs,Real Estate
+IQV,IQVIA Holdings Inc.,Durham,United states of america,24,Medium,1.7,14.7,7.9,Low,33.00335715,3.05E+10,Medical Diagnostics & Research,Healthcare
+RSG,Republic Services Inc.,Phoenix,United states of america,24,Medium,13.1,6.9,3.8,Significant,24.33069774,3.06E+10,Waste Management,Industrials
+HLT,Hilton Worldwide Holdings Inc.,Mc lean,United states of america,21,Medium,8.3,8.3,4,Moderate,54.47075209,3.08E+10,Travel & Leisure,Consumer Cyclical
+JCI,Johnson Controls International plc,Cork,Ireland; republic of,18,Low,5.8,5.2,6.8,Significant,37.30185497,3.09E+10,Building Materials,Basic Materials
+MSI,Motorola Solutions Inc.,Chicago,United states of america,15,Negligible,1,8,5,Significant,40.07301808,3.09E+10,Communication Equipment,Technology
+TSN,Tyson Foods Inc.,Springdale,United states of america,44,Severe,15.3,15.6,12.8,High,70.48689139,3.10E+10,Consumer Packaged Goods,Consumer Defensive
+STI,SunTrust Banks Inc.,Atlanta,United states of america,28,Medium,2.4,15.3,10.1,Significant,39.03647898,3.11E+10,Banks,Financial Services
+ZBH,Zimmer Biomet Holdings Inc.,Warsaw indiana,United states of america,34,High,3.8,18.5,11.5,Moderate,44.31160818,3.11E+10,Medical Devices,Healthcare
+EQR,Equity Residential of Beneficial Interest,Chicago,United states of america,16,Low,4.5,5.4,5.9,Moderate,22.58748674,3.12E+10,REITs,Real Estate
+OKE,ONEOK Inc.,Tulsa,United states of america,27,Medium,13.1,10.4,3.6,Low,40.25949954,3.12E+10,Oil & Gas - Midstream,Energy
+HPQ,HP Inc.,Palo alto,United states of america,11,Low,0.2,5.5,5.7,Moderate,0.439882698,3.13E+10,Computer Hardware,Technology
+TFA.BR,"Telefonica, S.A.",Madrid,Spain,18,Negligible,1,9,8,Moderate,-15.41609823,3.13E+10,Telecom Services,Communication Services
+INFO,IHS Markit Ltd.,London,United kingdom,23,Medium,0.1,15.8,7.4,Low,57.07734,3.14E+10,Application Software,Technology
+ED,Consolidated Edison Inc.,New york city,United states of america,29,Medium,7.9,13.5,7.2,Significant,18.3233063,3.15E+10,Utilities - Regulated,Utilities
+PAYX,Paychex Inc.,Rochester,United states of america,16,Low,0.1,9.2,6.9,,30.56024559,3.15E+10,Business Services,Industrials
+WEC,WEC Energy Group Inc.,Milwaukee,United states of america,33,High,17.2,9.9,5.7,Moderate,33.16488594,3.17E+10,Utilities - Regulated,Utilities
+CCL,Carnival Corporation,Miami,United states of america,20,Medium,8.3,8.2,3.7,Significant,3.103448276,3.18E+10,Travel & Leisure,Consumer Cyclical
+LULU,lululemon athletica inc.,Vancouver,Canada,14,Low,1.1,6.4,6.1,Moderate,90.50242579,3.18E+10,Retail - Apparel & Specialty,Consumer Cyclical
+ORLY,O'Reilly Automotive Inc.,Springfield,United states of america,13,Negligible,0,9,4,Moderate,27.27906369,3.18E+10,Retail - Apparel & Specialty,Consumer Cyclical
+SIRI,Sirius XM Holdings Inc.,New york city,United states of america,20,Low,2.1,8.7,8.7,Moderate,25.21891419,3.18E+10,Entertainment,Consumer Cyclical
+TROW,T. Rowe Price Group Inc.,Baltimore,United states of america,23,Medium,3,11.8,8.6,Moderate,31.97573657,3.19E+10,Asset Management,Financial Services
+TEL,TE Connectivity Ltd. New Switzerland Registered Shares,Schaffhausen,Switzerland,9,Negligible,1.2,3.5,4.3,Low,26.72220019,3.20E+10,Computer Hardware,Technology
+BF-B,Brown-Forman Corporation,Louisville,United states of america,20,Negligible,6,8,6,,0.029594555,3.22E+10,Beveragesâ€”Wineries & Distilleries,Consumer Defensive
+IR,Ingersoll-Rand plc (Ireland),Swords,Ireland; republic of,25,Medium,6.8,11.7,6.7,Moderate,45.69768716,3.22E+10,Industrial Products,Industrials
+YUM,Yum! Brands Inc.,Louisville,United states of america,20,Medium,4.1,10.9,5.3,Significant,9.584421236,3.22E+10,Restaurants,Consumer Cyclical
+GIS,General Mills Inc.,Minneapolis,United states of america,22,Medium,6.8,9.9,5.7,Significant,37.54494093,3.25E+10,Consumer Packaged Goods,Consumer Defensive
+EA,Electronic Arts Inc.,Redwood city,United states of america,15,Low,0.1,9,5.7,Moderate,36.24382208,3.26E+10,Application Software,Technology
+SQ,Square Inc. Class A,San francisco,United states of america,20,Medium,0.2,12,8.2,,11.53503298,3.27E+10,Application Software,Technology
+VFC,V.F. Corporation,Greenwood village,United states of america,13,Low,1.2,6.3,5.3,Moderate,48.34772254,3.38E+10,Manufacturing - Apparel & Furniture,Consumer Cyclical
+CTSH,Cognizant Technology Solutions Corporation,Teaneck,United states of america,19,Low,1,9.6,8.5,Moderate,-2.299936988,3.42E+10,Application Software,Technology
+ET,Energy Transfer LP,Dallas,United states of america,44,Negligible,39,38,60,Severe,-2.87660863,3.43E+10,Oil & Gas Midstream,Energy
+TRV,The Travelers Companies Inc.,Saint paul,United states of america,24,Medium,1.5,9.1,12.9,Moderate,14.36325678,3.43E+10,Insurance - Property & Casualty,Financial Services
+CNQ,Canadian Natural Resources Limited,Calgary,Canada,35,High,16.5,8.9,10.1,Low,34.06547866,3.47E+10,Oil & Gas - E&P,Energy
+WELL,Welltower Inc.,Toledo,United states of america,16,Low,4.7,5,6.1,,17.82163953,3.47E+10,REITs,Real Estate
+F,Ford Motor Company,Dearborn,United states of america,30,Medium,9.2,10.2,10.4,Significant,21.56862745,3.50E+10,Autos,Consumer Cyclical
+TDG,Transdigm Group Incorporated Inc.,Cleveland,United states of america,41,Severe,11.2,20.3,9.5,Moderate,64.67682174,3.50E+10,Aerospace & Defense,Industrials
+MPC,Marathon Petroleum Corporation,Findlay,United states of america,38,High,22.5,9.5,6.2,Moderate,2.101338756,3.53E+10,Oil & Gas - Refining & Marketing,Energy
+ACA.PA,Credit Agricole S.A.,Paris,France,31,Severe,2,13,16,Significant,37.11558855,3.54E+10,Banks—Regional,Financial Services
+MNST,Monster Beverage Corporation,Corona,United states of america,33,High,14.2,12.3,6.7,Moderate,29.11418123,3.60E+10,Beverages - Non-Alcoholic,Consumer Defensive
+XEL,Xcel Energy Inc.,Minneapolis,United states of america,29,Medium,14.7,8.4,5.8,Low,28.86137609,3.61E+10,Utilities - Regulated,Utilities
+VLO,Valero Energy Corporation,San antonio,United states of america,37,High,21.9,9.9,5.4,Significant,24.91663332,3.62E+10,Oil & Gas - Refining & Marketing,Energy
+OXY,Occidental Petroleum Corporation,Houston,United states of america,38,High,22.7,7.5,7.5,Moderate,-32.86086673,3.63E+10,Oil & Gas - Integrated,Energy
+STZ,Constellation Brands Inc.,Victor,United states of america,23,Medium,7.5,9.3,6.1,Moderate,17.98905609,3.66E+10,Beverages - Alcoholic,Consumer Defensive
+DELL,Dell Technologies Inc.,Round rock,United states of america,17,Negligible,0,8,9,Moderate,5.156537753,3.66E+10,Computer Hardware,Technology
+KHC,The Kraft Heinz Company,Pittsburgh,United states of america,32,High,11.6,14,5.9,Significant,-25.34851301,3.66E+10,Consumer Packaged Goods,Consumer Defensive
+NXPI,NXP Semiconductors N.V.,Eindhoven,Netherlands,24,Medium,9.2,7,7.9,Low,73.66266376,3.68E+10,Semiconductors,Technology
+CP,Canadian Pacific Railway Limited,Calgary,Canada,21,Medium,6.6,10.7,3.9,Moderate,43.53676388,3.69E+10,Transportation & Logistics,Industrials
+DAL,Delta Air Lines Inc.,Atlanta,United states of america,26,Medium,8.7,11.8,5.3,Moderate,17.19438878,3.69E+10,Airlines,Industrials
+NEM,Newmont Mining Corporation,Greenwood village,United states of america,25,Medium,10.4,9.1,5.6,Significant,25.3968254,3.69E+10,Metals & Mining,Basic Materials
+REGN,Regeneron Pharmaceuticals Inc.,Tarrytown,United states of america,25,Medium,0.1,16.7,8.1,Moderate,0.530120482,3.69E+10,Biotechnology,Healthcare
+CNC,Centene Corporation,St. louis,United states of america,29,Medium,0.1,21.8,7.1,Moderate,9.054640069,3.71E+10,Health Care Plans,Healthcare
+PRU,Prudential Financial Inc.,Newark,United states of america,19,Low,0.6,9.7,8.3,Moderate,14.94788473,3.71E+10,Insurance - Life,Financial Services
+ENGI.PA,ENGIE SA,Paris,France,33,Severe,13,11,9,Significant,14.92418196,3.77E+10,Utilities—Diversified,Utilities
+FDX,FedEx Corporation,Memphis,United states of america,22,Medium,6.2,9.1,6.2,Significant,-6.272856877,3.87E+10,Transportation & Logistics,Industrials
+ALL,Allstate Corporation (The),Northbrook,United states of america,21,Medium,1.5,8.6,11.3,Moderate,36.08858768,3.88E+10,Insurance - Property & Casualty,Financial Services
+AFL,AFLAC Incorporated,Columbus,United states of america,24,Medium,2,8.8,13.6,Moderate,16.11062335,3.89E+10,Insurance - Life,Financial Services
+DD,"DuPont de Nemours, Inc.",Wilmington,United states of america,31,Severe,14,9,8,Significant,-15.65948502,3.91E+10,Chemicals,Basic Materials
+MFC,Manulife Financial Corporation,Toronto,Canada,20,Low,0.6,9.1,10.4,Moderate,42.98801973,3.91E+10,Insurance - Life,Financial Services
+MEURV.BR,Munchener Ruckversicherungs-Gesellschaft Aktiengesellschaft,Muenchen,Germany,17,Negligible,1,8,9,Moderate,44.75828354,3.91E+10,Insurance—Reinsurance,Financial Services
+PSA,Public Storage,Glendale,United states of america,18,Low,6.2,6.4,5.8,Low,5.212193073,3.91E+10,REITs,Real Estate
+DG,Dollar General Corporation,Goodlettsville,United states of america,17,Low,3.3,8.5,5.4,Moderate,44.31902295,4.00E+10,Retail - Defensive,Consumer Defensive
+ETN,Eaton Corporation PLC,Dublin,Ireland; republic of,18,Low,4.6,7.1,6.1,Moderate,37.95514128,4.02E+10,Industrial Products,Industrials
+ROP,Roper Technologies Inc.,Lakewood ranch,United states of america,44,Severe,18.5,16.6,9,,32.90935014,4.05E+10,Industrial Products,Industrials
+BK,Bank of New York Mellon Corporation (The),New york city,United states of america,25,Medium,2.4,12.2,10.2,Significant,6.925855109,4.09E+10,Asset Management,Financial Services
+DSY.PA,Dassault Systemes SE,Velizy villacoublay,France,16,Negligible,1,9,6,Moderate,41.32111861,4.10E+10,Software—Application,Technology
+ROST,Ross Stores Inc.,Dublin california,United states of america,16,Low,2,7.6,6.3,Moderate,39.92788462,4.10E+10,Retail - Apparel & Specialty,Consumer Cyclical
+RI.PA,Pernod Ricard SA,Paris,France,16,Negligible,4,5,6,Low,11.23517097,4.13E+10,Beverages—Wineries & Distilleries,Consumer Defensive
+ADI,Analog Devices Inc.,Norwood,United states of america,26,Medium,10.5,7.7,7.8,,38.45974601,4.15E+10,Semiconductors,Technology
+SPG,Simon Property Group Inc.,Indianapolis,United states of america,16,Low,4.3,4.8,6.5,Low,-11.32805524,4.19E+10,REITs,Real Estate
+NTES,NetEase Inc.,Beijing,China,19,Low,0.1,11,7.4,Moderate,30.2799847,4.20E+10,Online Media,Technology
+SYY,Sysco Corporation,Houston,United states of america,13,Low,2.5,5.6,4.7,Moderate,36.51452282,4.23E+10,Retail - Defensive,Consumer Defensive
+PSX,Phillips 66,Houston,United states of america,31,High,19.3,7.1,4.7,Significant,29.32095183,4.28E+10,Oil & Gas - Refining & Marketing,Energy
+RACE,Ferrari N.V.,Maranello,Italy,26,Medium,6.1,11.5,8.3,Low,66.47224457,4.30E+10,Autos,Consumer Cyclical
+BCE,BCE Inc.,Verdun,Canada,21,Medium,2.9,11.8,5.9,Moderate,17.25271945,4.32E+10,Communication Services,Communication Services
+ABX.TO,Barrick Gold Corporation,Toronto,Canada,33,Severe,14,12,6,High,30.87357569,4.33E+10,Gold,Basic Materials
+WDAY,Workday Inc.,Pleasanton,United states of america,16,Low,1.2,8.2,6.4,,2.987224449,4.33E+10,Application Software,Technology
+ILMN,Illumina Inc.,San diego,United states of america,15,Low,1.4,6.3,7.4,Low,10.60580802,4.35E+10,Medical Instruments & Equipment,Healthcare
+BIDU,Baidu Inc.,Beijing,China,25,Medium,2.7,13.7,8.9,Significant,-20.30264817,4.36E+10,Online Media,Technology
+ADSK,Autodesk Inc.,San rafael california,United states of america,20,Low,1.3,12.8,5.6,,42.64831662,4.38E+10,Application Software,Technology
+EOG,EOG Resources Inc.,Houston,United states of america,45,Severe,24,12.8,8,Low,-3.955968352,4.41E+10,Oil & Gas - E&P,Energy
+AIG,American International Group Inc.,New york city,United states of america,29,Medium,1.9,11.6,16,Moderate,30.24613042,4.46E+10,Insurance,Financial Services
+EMR,Emerson Electric Company,St. louis,United states of america,23,Medium,7.1,8.4,7.9,Moderate,27.63179916,4.51E+10,Industrial Products,Industrials
+LRCX,Lam Research Corporation,Fremont,United states of america,16,Low,4.2,5.7,6.4,,114.7315855,4.51E+10,Semiconductors,Technology
+SRE,Sempra Energy,San diego,United states of america,29,Medium,13.2,10.3,5.9,Significant,40.0129402,4.54E+10,Utilities - Regulated,Utilities
+HUM,Humana Inc.,Louisville,United states of america,24,Medium,0.1,17.2,6.2,Moderate,27.93912315,4.55E+10,Health Care Plans,Healthcare
+UBS,UBS Group AG Registered,Zuerich,Switzerland,34,High,1.4,17.4,15.7,Significant,1.615508885,4.57E+10,Banks,Financial Services
+WBA,Walgreens Boots Alliance Inc.,Deerfield,United states of america,17,Low,2.5,10.4,4.5,Significant,-13.71286404,4.60E+10,Drug Manufacturers,Healthcare
+BAX,Baxter International Inc.,Deerfield,United states of america,29,Medium,2.6,17.5,8.8,Significant,27.04345184,4.63E+10,Medical Instruments & Equipment,Healthcare
+COF,Capital One Financial Corporation,Mc lean,United states of america,26,Medium,0.1,15.7,10.2,High,36.14234687,4.67E+10,Credit Services,Financial Services
+EXC,Exelon Corporation,Chicago,United states of america,26,Medium,10.1,9.3,6.5,Moderate,1.086474501,4.67E+10,Utilities - Regulated,Utilities
+ATVI,Activision Blizzard Inc,Santa monica,United states of america,17,Low,0.2,10.5,6.1,Moderate,27.59287095,4.68E+10,Application Software,Technology
+MAR,Marriott International,Bethesda,United states of america,25,Medium,9.9,10.8,4.5,Significant,39.48968312,4.69E+10,Travel & Leisure,Consumer Cyclical
+SLB,Schlumberger N.V.,Houston,United states of america,24,Medium,9.7,6.6,7.4,Significant,11.41906874,4.71E+10,Oil & Gas - Services,Energy
+MET,MetLife Inc.,New york city,United states of america,23,Medium,1.3,10.6,11.6,Moderate,24.13541159,4.72E+10,Insurance - Life,Financial Services
+GM,General Motors Company,Detroit,United states of america,31,High,10.1,12.2,8.6,High,9.417040359,4.76E+10,Autos,Consumer Cyclical
+PGR,Progressive Corporation (The),Mayfield village,United states of america,23,Medium,2.1,7.8,13.3,Moderate,19.9900547,4.78E+10,Insurance - Property & Casualty,Financial Services
+ENI.BR,Eni S.p.A.,Roma,Italy,31,Severe,13,7,11,High,5.111111111,4.80E+10,Oil & Gas Integrated,Energy
+KMI,Kinder Morgan Inc.,Houston,United states of america,24,Medium,9.4,10.2,4.2,Moderate,37.64629389,4.85E+10,Oil & Gas - Midstream,Energy
+SU,Suncor Energy Inc.,Calgary,Canada,27,Medium,16.1,5,5.8,Moderate,17.26850197,4.86E+10,Oil & Gas - Integrated,Energy
+HCA,HCA Healthcare Inc.,Nashville,United states of america,28,Medium,3.4,17.2,7.7,Moderate,18.7705906,4.87E+10,Health Care Providers,Healthcare
+EW,Edwards Lifesciences Corporation,Irvine,United states of america,22,Medium,2.6,11,8,Moderate,52.30789319,4.88E+10,Medical Devices,Healthcare
+KMB,Kimberly-Clark Corporation,Irving,United states of america,22,Medium,7.6,7.4,6.9,Significant,20.72143233,4.94E+10,Consumer Packaged Goods,Consumer Defensive
+MCO,Moody's Corporation,New york city,United states of america,15,Low,1.5,7,7,Significant,69.53013425,4.98E+10,Business Services,Industrials
+BIIB,Biogen Inc.,Cambridge,United states of america,23,Medium,0,15,8.5,Moderate,-1.39239665,5.01E+10,Biotechnology,Healthcare
+BMO,Bank Of Montreal,Toronto,Canada,22,Medium,1.7,11.4,8.8,Moderate,18.59219587,5.02E+10,Banks,Financial Services
+SU.PA,Schneider Electric S.E.,Rueil-malmaison,France,13,Negligible,2,5,7,Moderate,53.21500335,5.06E+10,Specialty Industrial Machinery,Industrials
+DE,Deere & Company,Moline,United states of america,19,Low,4.3,11.1,3.5,Moderate,16.14935979,5.07E+10,Farm & Construction Machinery,Industrials
+LVS,Las Vegas Sands Corp.,Las vegas,United states of america,19,Low,1.6,9.4,8.3,Moderate,32.64169068,5.08E+10,Travel & Leisure,Consumer Cyclical
+AEP,American Electric Power Company Inc.,Columbus,United states of america,31,High,16.4,8.7,5.5,Moderate,26.45169922,5.14E+10,Utilities - Regulated,Utilities
+EQIX,Equinix Inc.,Redwood city,United states of america,16,Low,5.4,5.2,5.5,,65.56047198,5.14E+10,Online Media,Technology
+TRP,TransCanada Corporation,Calgary,Canada,27,Medium,12.8,10.9,3.4,Significant,49.32773109,5.16E+10,Oil & Gas - Midstream,Energy
+WM,Waste Management Inc.,Houston,United states of america,15,Low,7.8,3.6,3.8,Moderate,28.05933251,5.21E+10,Waste Management,Industrials
+GD,General Dynamics Corporation,Reston,United states of america,39,High,10.1,21.3,7.5,Significant,12.17479804,5.24E+10,Aerospace & Defense,Industrials
+SHW,Sherwin-Williams Company (The),Cleveland,United states of america,31,Severe,13,11,6,Moderate,48.30986631,5.25E+10,Building Materials,Basic Materials
+APD,Air Products and Chemicals Inc.,Allentown,United states of america,12,Low,6.6,2,3.7,Moderate,46.82286785,5.33E+10,Chemicals,Basic Materials
+AMAT,Applied Materials Inc.,Santa clara,United states of america,17,Low,5.4,5.4,6.4,Low,86.43860721,5.51E+10,Semiconductors,Technology
+ICE,Intercontinental Exchange Inc.,Atlanta,United states of america,16,Low,2.1,6.6,7.3,Significant,22.85941856,5.58E+10,Brokers & Exchanges,Financial Services
+NSC,Norfolk Southern Corporation,Norfolk,United states of america,24,Medium,8.9,11.8,3.7,Moderate,29.81810887,5.59E+10,Transportation & Logistics,Industrials
+JD,JD.com Inc.,Beijing,China,25,Medium,7.3,8.8,8.9,Moderate,68.32298137,5.62E+10,Online Media,Technology
+HEIA.AS,Heineken N.V.,Amsterdam,Netherlands,18,Negligible,5,8,6,Significant,22.95336788,5.63E+10,Beverages—Brewers,Consumer Defensive
+ITW,Illinois Tool Works Inc.,Glenview,United states of america,21,Medium,4.8,9.6,6.2,Moderate,41.78703923,5.72E+10,Industrial Products,Industrials
+ECL,Ecolab Inc.,Saint paul,United states of america,32,Severe,14,10,8,Moderate,30.97387173,5.75E+10,Chemicals,Basic Materials
+MMC,Marsh & McLennan Companies Inc.,New york city,United states of america,19,Low,0.1,7.8,10.8,Moderate,39.69905956,5.78E+10,Brokers & Exchanges,Financial Services
+TGT,Target Corporation,Minneapolis,United states of america,16,Low,1.9,8.8,5.4,Significant,93.99303979,5.81E+10,Retail - Defensive,Consumer Defensive
+CS.PA,AXA SA,New york city,United states of america,18,Negligible,1,9,9,Significant,33.13891835,5.86E+10,Insurance—Diversified,Financial Services
+VRTX,Vertex Pharmaceuticals Incorporated,Boston,United states of america,26,Medium,0.2,18.1,7.8,Moderate,32.12841711,5.92E+10,Biotechnology,Healthcare
+CL,Colgate-Palmolive Company,New york city,United states of america,22,Medium,6.5,8.9,6.7,Significant,15.65860215,5.95E+10,Consumer Packaged Goods,Consumer Defensive
+GPN,Global Payments Inc.,Atlanta,United states of america,22,Medium,0.2,14,8,Moderate,77.01929603,6.01E+10,Business Services,Industrials
+BSX,Boston Scientific Corporation,Marlborough,United states of america,34,High,3.3,18.8,12.3,High,27.95698925,6.05E+10,Medical Devices,Healthcare
+CSX,CSX Corporation,Jacksonville,United states of america,22,Medium,6.8,12.4,3.3,Significant,16.46547562,6.05E+10,Transportation & Logistics,Industrials
+SCHW,Charles Schwab Corporation (The),San francisco,United states of america,27,Medium,1.7,11.1,14,Moderate,14.51962437,6.06E+10,Brokers & Exchanges,Financial Services
+PLD,ProLogis Inc.,San francisco,United states of america,10,Low,2.7,2.9,4.6,,51.80517711,6.08E+10,REITs,Real Estate
+BNP.PA,BNP Paribas SA,Paris,France,30,Severe,2,15,14,Significant,33.84849253,6.10E+10,Banks—Regional,Financial Services
+MU,Micron Technology Inc.,Boise,United states of america,34,High,17.4,9.1,7.5,Low,69.49259376,6.11E+10,Semiconductors,Technology
+AGN,Allergan plc,Dublin,Ireland; republic of,31,High,1.3,18.3,11.7,Significant,43.02708365,6.16E+10,Drug Manufacturers,Healthcare
+SANTA.BR,"Banco Santander, S.A.",Boadilla del monte,Spain,33,Severe,2,17,13,Significant,-5.852417303,6.17E+10,Banksâ€”Diversified,Financial Services
+AI.PA,L'AirÂ LiquideÂ S.A.,Paris,France,13,Negligible,6,4,4,Moderate,16.3669894,6.17E+10,Chemicals,Basic Materials
+SAF.PA,Safran SA,Paris,France,31,Severe,8,14,9,Moderate,30.59772296,6.17E+10,Aerospace & Defense,Industrials
+BAM,Brookfield Asset Management Inc.,Toronto,Canada,35,Severe,3,18,14,Significant,50.71707953,6.28E+10,Real Estate Services,Real Estate
+CCI,Crown Castle International Corp. (REIT),Houston,United states of america,21,Medium,9,5.4,6.2,Low,30.85703765,6.28E+10,REITs,Real Estate
+RTN,Raytheon Company,Waltham,United states of america,36,High,9.5,18.2,8.1,Significant,43.29312031,6.30E+10,Aerospace & Defense,Industrials
+VMW,Vmware Inc. Class A,Palo alto,United states of america,16,Low,0.8,9.3,5.9,,10.69058558,6.31E+10,Application Software,Technology
+NOW,ServiceNow Inc.,Santa clara,United states of america,22,Medium,1.5,13.7,6.7,Low,58.56220163,6.44E+10,Application Software,Technology
+NOC,Northrop Grumman Corporation,Falls church,United states of america,30,High,9.4,15.4,5.3,Significant,40.45324622,6.49E+10,Conglomerates,Industrials
+PNC,PNC Financial Services Group Inc. (The),Pittsburgh,United states of america,20,Medium,1.7,10.5,8.2,Moderate,36.54092892,6.54E+10,Banks,Financial Services
+ZTS,Zoetis Inc. Class A,Parsippany,United states of america,28,Medium,2.7,13.9,11.6,Low,54.72293664,6.57E+10,Drug Manufacturers,Healthcare
+ISRG,Intuitive Surgical Inc.,Sunnyvale,United states of america,35,High,5.5,18.4,11.3,Moderate,23.43397645,6.60E+10,Medical Devices,Healthcare
+COP,ConocoPhillips,Houston,United states of america,31,High,16.2,7.8,6.7,Moderate,4.298315958,6.68E+10,Oil & Gas - E&P,Energy
+BNS,Bank Nova Scotia Halifax Pfd 3,Toronto,Canada,24,Medium,2.5,11.5,9.7,Significant,13.27451374,6.72E+10,Banks,Financial Services
+ANTM,Anthem Inc.,Indianapolis,United states of america,24,Medium,0.1,17.1,6.6,Significant,15.0020942,6.74E+10,Health Care Plans,Healthcare
+CNI,Canadian National Railway Company,Montreal,Canada,18,Low,5.9,9,3.5,Moderate,22.04830657,6.81E+10,Transportation & Logistics,Industrials
+TMUS,T-Mobile US Inc.,Bellevue,United states of america,25,Medium,4.9,12.6,7.4,Significant,23.28250275,6.93E+10,Communication Services,Communication Services
+CB,Chubb Limited,Zuerich,Switzerland,23,Medium,1.5,10.3,11.5,Moderate,20.49852918,6.99E+10,Insurance - Property & Casualty,Financial Services
+KER.PA,Kering SA,Paris,France,12,Negligible,1,5,7,Significant,42.17687075,7.02E+10,Footwear & Accessories,Consumer Cyclical
+DTEL.BR,Deutsche Telekom AG,Bonn,Germany,18,Negligible,3,8,7,Moderate,-0.747790619,7.03E+10,Telecom Services,Communication Services
+RMS.PA,Hermes International Societe en commandite par actions,Paris,France,11,Negligible,1,4,6,Moderate,37.41749175,7.06E+10,Luxury Goods,Consumer Cyclical
+DUK,Duke Energy Corporation (Holding Company),Charlotte,United states of america,34,High,16.2,10.6,7.2,Significant,5.689455388,7.11E+10,Utilities - Regulated,Utilities
+EL,Estee Lauder Companies Inc. (The),New york city,United states of america,27,Medium,9,9.4,9.1,Moderate,58.754804,7.15E+10,Consumer Packaged Goods,Consumer Defensive
+D,Dominion Energy Inc.,Richmond,United states of america,35,High,17.7,10.8,6.2,Moderate,15.89700532,7.17E+10,Utilities - Regulated,Utilities
+TJX,TJX Companies Inc. (The),Framingham,United states of america,15,Low,2.1,7.6,5.7,Moderate,36.47742512,7.28E+10,Retail - Apparel & Specialty,Consumer Cyclical
+SPGI,S&P Global Inc.,New york city,United states of america,13,Low,1.4,5.9,6.1,Significant,60.67435565,7.33E+10,Business Services,Industrials
+BX,The Blackstone Group L.P. Representing Limited Partnership Interests,New york city,United states of america,36,High,3.5,15,17.1,Moderate,87.65514928,7.33E+10,Asset Management,Financial Services
+SO,Southern Company (The),Atlanta,United states of america,34,High,14.1,12.4,7.2,Moderate,45.03642987,7.43E+10,Utilities - Regulated,Utilities
+INTU,Intuit Inc.,Mountain view,United states of america,18,Low,1.1,11.3,5.8,Low,33.06070612,7.46E+10,Application Software,Technology
+CAT,Caterpillar Inc.,Deerfield,United states of america,38,High,7.2,20.7,9.8,High,16.21940663,7.48E+10,Farm & Construction Machinery,Industrials
+ADP,Automatic Data Processing Inc.,Roseland,United states of america,15,Low,0.1,8.3,6.4,Low,30.03355705,7.57E+10,Business Services,Industrials
+BDX,Becton Dickinson and Company,Franklin lakes,United states of america,33,High,3.4,18.5,11.1,Significant,20.7038878,7.62E+10,Medical Instruments & Equipment,Healthcare
+CELG,Celgene Corporation,Summit,United states of america,22,Medium,0,14.4,7.8,Moderate,68.88750195,7.70E+10,Biotechnology,Healthcare
+CDI.PA,Christian Dior SE,Paris,France,11,Negligible,1,4,6,Moderate,36.80742737,7.74E+10,Luxury Goods,Consumer Cyclical
+BKNG,Booking Holdings Inc.,Norwalk,United states of america,19,Negligible,4,9,6,Moderate,19.2351459,7.84E+10,Travel & Leisure,Consumer Cyclical
+CME,CME Group Inc.,Chicago,United states of america,17,Low,2.8,7.4,6.8,Moderate,6.697852435,7.84E+10,Brokers & Exchanges,Financial Services
+SYK,Stryker Corporation,Portage,United states of america,37,High,4,20.8,12.3,High,33.93301435,8.01E+10,Medical Devices,Healthcare
+GILD,Gilead Sciences Inc.,Foster city,United states of america,22,Medium,0,14.3,8.1,Moderate,3.884892086,8.10E+10,Biotechnology,Healthcare
+FISV,Fiserv Inc.,Brookfield,United states of america,20,Low,0.2,12,7.5,Moderate,57.34113485,8.24E+10,Business Services,Industrials
+ENB,Enbridge Inc,Calgary,Canada,26,Medium,11.3,10.3,4.4,Significant,27.96010296,8.38E+10,Oil & Gas - Midstream,Energy
+DGE.PA,Diageo plc,London,United kingdom,16,Negligible,3,7,6,Significant,19.25525143,8.41E+10,Beverages—Wineries & Distilleries,Consumer Defensive
+MDLZ,Mondelez International Inc.,Deerfield,United states of america,26,Medium,9.5,10.9,5.7,Moderate,37.5968024,8.47E+10,Consumer Packaged Goods,Consumer Defensive
+USB,U.S. Bancorp,Minneapolis,United states of america,27,Medium,1.7,13.1,11.7,Significant,29.73741794,8.47E+10,Banks,Financial Services
+MS,Morgan Stanley,New york city,United states of america,24,Medium,0.9,13.7,9.1,Significant,28.92812106,8.58E+10,Brokers & Exchanges,Financial Services
+GS,Goldman Sachs Group Inc. (The),New york city,United states of america,32,High,0.9,14.8,16.4,High,37.64142472,8.64E+10,Brokers & Exchanges,Financial Services
+MO,Altria Group Inc.,Richmond,United states of america,25,Medium,6.3,12.4,6.3,Significant,1.052844705,8.97E+10,Tobacco Products,Consumer Defensive
+CVS,CVS Health Corporation,Woonsocket,United states of america,20,Medium,2.9,12.1,5.4,Significant,13.38522589,9.07E+10,Health Care Plans,Healthcare
+FIS,Fidelity National Information Services Inc.,Jacksonville,United states of america,19,Low,0.1,12.4,6.8,Low,35.63139932,9.07E+10,Application Software,Technology
+LOW,Lowe's Companies Inc.,Mooresville,United states of america,14,Low,4.7,6.1,3.3,Moderate,29.6665223,9.18E+10,Retail - Apparel & Specialty,Consumer Cyclical
+UPS,United Parcel Service Inc.,Atlanta,United states of america,20,Low,5.4,8.4,6.1,Significant,20.02460781,9.26E+10,Transportation & Logistics,Industrials
+MMM,3M Company,Saint paul,United states of america,35,High,12.6,12.7,9.2,Significant,-7.410517477,9.35E+10,Industrial Products,Industrials
+QCOM,QUALCOMM Incorporated,San diego,United states of america,19,Low,2,6.4,10.6,High,55.03426463,1.00E+11,Semiconductors,Technology
+SBUX,Starbucks Corporation,Seattle,United states of america,21,Medium,3.2,13,5.1,Significant,36.52173913,1.01E+11,Restaurants,Consumer Cyclical
+KOF,Coca Cola Femsa S.A.B. de C.V.,Mexico city,Mexico,70,High,78,61,72,Moderate,-0.361604208,1.02E+11,Beverages - Non-Alcoholic,Consumer Defensive
+AMT,American Tower Corporation (REIT),Boston,United states of america,18,Low,5.8,6.7,5.6,,45.28099121,1.04E+11,Communication Services,Communication Services
+AIR.PA,Airbus SE,Leiden,Netherlands,30,Severe,8,14,8,Significant,55.40733683,1.05E+11,Aerospace & Defense,Industrials
+CHTR,Charter Communications Inc.,Stamford,United states of america,20,Low,2.5,9.5,7.8,Moderate,70.22142682,1.06E+11,Communication Services,Communication Services
+AXP,American Express Company,New york city,United states of america,23,Medium,0.1,12.8,10.1,Significant,30.60218212,1.08E+11,Credit Services,Financial Services
+GE,General Electric Company,Boston,United states of america,47,Severe,15.1,19.1,12.6,Significant,53.2967033,1.11E+11,Industrial Products,Industrials
+ASML.AS,ASML Holding N.V.,Veldhoven,Netherlands,13,Negligible,4,3,6,Low,92.25721785,1.13E+11,Semiconductor Equipment & Materials,Technology
+RY,Royal Bank Of Canada,Toronto,Canada,20,Low,1.3,12.4,6.1,Significant,15.58669002,1.15E+11,Banks,Financial Services
+TSLA,Tesla Inc.,Palo alto,United states of america,31,High,2.8,17.4,11.2,Significant,25.70012019,1.16E+11,Autos,Consumer Cyclical
+TXN,Texas Instruments Incorporated,Dallas,United states of america,19,Low,6.7,5,7.1,Low,35.75661376,1.16E+11,Semiconductors,Technology
+DHR,Danaher Corporation,Washington,United states of america,33,High,4.6,18.2,9.9,Moderate,48.83630721,1.18E+11,Medical Diagnostics & Research,Healthcare
+ABBV,AbbVie Inc.,North chicago,United states of america,30,High,1,16.5,12.8,Significant,-3.959214665,1.21E+11,Drug Manufacturers,Healthcare
+IBM,International Business Machines Corporation,Armonk,United states of america,18,Low,0.4,9.9,7.3,Moderate,17.92029559,1.23E+11,Application Software,Technology
+LMT,Lockheed Martin Corporation,Bethesda,United states of america,31,High,7.3,16,7.5,Significant,48.70913535,1.23E+11,Aerospace & Defense,Industrials
+AVGO,Broadcom Limited,San jose,United states of america,26,Medium,9.1,8.3,8.6,Significant,24.28032091,1.25E+11,Semiconductors,Technology
+HON,Honeywell International Inc.,Charlotte,United states of america,39,High,13.1,15.8,9.6,Significant,33.96911898,1.27E+11,Industrial Products,Industrials
+UNP,Union Pacific Corporation,Omaha,United states of america,21,Medium,6.8,10.5,3.6,Moderate,30.78926427,1.27E+11,Transportation & Logistics,Industrials
+TMO,Thermo Fisher Scientific Inc,Waltham,United states of america,18,Low,1.6,10.1,6.4,Moderate,45.16734439,1.28E+11,Medical Diagnostics & Research,Healthcare
+PM,Philip Morris International Inc,New york,United states of america,29,Medium,6.6,14.1,8.1,Significant,27.45656081,1.31E+11,Tobacco Products,Consumer Defensive
+NEE,NextEra Energy Inc.,Juno beach,United states of america,30,High,15.2,8.9,6,Moderate,39.31653435,1.32E+11,Utilities - Regulated,Utilities
+ACN,Accenture plc Class A (Ireland),Dublin,Ireland; republic of,15,Low,1,8.2,6.2,Moderate,49.32983476,1.33E+11,Application Software,Technology
+UTX,United Technologies Corporation,Farmington,United states of america,30,High,8,13.8,8.3,Significant,40.64613073,1.33E+11,Aerospace & Defense,Industrials
+AMGN,Amgen Inc.,Thousand oaks,United states of america,22,Medium,0,15.8,6.6,Moderate,23.8352083,1.34E+11,Biotechnology,Healthcare
+COST,Costco Wholesale Corporation,Issaquah,United states of america,23,Medium,5,10.8,6.7,Significant,44.28354033,1.37E+11,Retail - Defensive,Consumer Defensive
+LLY,Eli Lilly and Company,Indianapolis,United states of america,34,High,2.5,19.2,12.3,Significant,13.5758728,1.37E+11,Drug Manufacturers,Healthcare
+PYPL,PayPal Holdings Inc.,San jose,United states of america,19,Low,0.1,11.6,7.7,Moderate,28.63598525,1.38E+11,Credit Services,Financial Services
+BMY,Bristol-Myers Squibb Company,New york city,United states of america,28,Medium,1.5,15.5,10.6,Moderate,23.48980377,1.50E+11,Drug Manufacturers,Healthcare
+NVDA,NVIDIA Corporation,Santa clara,United states of america,13,Low,1.9,4.5,6.9,Moderate,76.25468165,1.50E+11,Semiconductors,Technology
+NFLX,Netflix Inc.,Los gatos,United states of america,26,Medium,7.3,10,9.1,Moderate,20.88844056,1.52E+11,Communication Services,Communication Services
+NKE,Nike Inc.,Beaverton,United states of america,17,Low,2,6.3,8.7,Significant,36.64688427,1.53E+11,Manufacturing - Apparel & Furniture,Consumer Cyclical
+ABT,Abbott Laboratories,Abbott park,United states of america,31,High,3.7,15.3,11.6,Significant,20.08848334,1.58E+11,Drug Manufacturers,Healthcare
+MDT,Medtronic plc.,Dublin,Ireland; republic of,26,Medium,2.5,13.3,10,Significant,24.72515391,1.58E+11,Medical Devices,Healthcare
+MCD,McDonald's Corporation,Chicago,United states of america,25,Medium,4.4,14.8,6.2,Significant,11.28569015,1.63E+11,Restaurants,Consumer Cyclical
+C,Citigroup Inc.,New york city,United states of america,31,High,1.6,14.7,14.3,High,53.45754898,1.64E+11,Banks,Financial Services
+CRM,Salesforce.com Inc,San francisco,United states of america,14,Low,1.1,8.1,4.9,Moderate,18.74133022,1.65E+11,Application Software,Technology
+ORCL,Oracle Corporation,Redwood city,United states of america,18,Low,0.4,10.9,6.8,Significant,17.34219269,1.71E+11,Application Software,Technology
+ADBE,Adobe Systems Incorporated,San jose,United states of america,14,Low,0.4,8.1,5.1,Moderate,45.77881895,1.74E+11,Application Software,Technology
+BA,The Boeing Company,Chicago,United states of america,39,High,8.2,20.8,10.2,High,1.010852713,1.82E+11,Conglomerates,Industrials
+RDSA.AS,Royal Dutch Shell plc,S-gravenhage,Netherlands,75,High,56,88,80,High,1.987529228,1.90E+11,Oil & Gas Integrated,Energy
+RDSB.AS,Royal Dutch Shell plc,S-gravenhage,Netherlands,36,Severe,19,8,9,High,0.722158875,1.92E+11,Oil & Gas Integrated,Energy
+WFC,Wells Fargo & Company,San francisco,United states of america,31,High,1.1,14.4,15.2,Severe,16.75347222,1.98E+11,Banks,Financial Services
+CMCSA,Comcast Corporation Class A Common Stock,Philadelphia,United states of america,19,Low,1.2,9.3,8.9,Moderate,32.07048458,2.01E+11,Entertainment,Consumer Cyclical
+MC.PA,"LVMH Moet Hennessy - Louis Vuitton, Societe Europeenne",Paris,France,11,Negligible,1,4,6,Moderate,60.4182804,2.01E+11,Luxury Goods,Consumer Cyclical
+PEP,PepsiCo Inc.,Purchase,United states of america,22,Medium,7.3,9.8,4.9,Significant,23.70564808,2.01E+11,Beverages - Non-Alcoholic,Consumer Defensive
+CSCO,Cisco Systems Inc.,San jose,United states of america,14,Low,0.6,6.6,6.9,Moderate,10.68543734,2.03E+11,Communication Equipment,Technology
+PFE,Pfizer Inc.,New york city,United states of america,33,High,2.2,17.5,13.1,Significant,-10.24054983,2.05E+11,Drug Manufacturers,Healthcare
+CVX,Chevron Corporation,San ramon,United states of america,42,Severe,20.2,11.7,10.3,High,10.77304899,2.11E+11,Oil & Gas - Integrated,Energy
+MRK,Merck & Company Inc. (new),Kenilworth,United states of america,28,Medium,1.6,15.2,11,Significant,19.02892292,2.20E+11,Drug Manufacturers,Healthcare
+VZ,Verizon Communications Inc.,New york city,United states of america,20,Low,1.9,11.5,6.4,Significant,9.213802917,2.45E+11,Communication Services,Communication Services
+DIS,The Walt Disney Company,Burbank,United states of america,15,Low,0,5.3,9.3,Moderate,31.90150479,2.49E+11,Entertainment,Consumer Cyclical
+KO,Coca-Cola Company (The),Atlanta,United states of america,26,Medium,9.2,11.5,5.4,Significant,16.89545935,2.52E+11,Beverages - Non-Alcoholic,Consumer Defensive
+HD,Home Depot Inc. (The),Atlanta,United states of america,13,Low,3.1,6.8,3.5,Moderate,27.09812595,2.54E+11,Retail - Apparel & Specialty,Consumer Cyclical
+UNH,UnitedHealth Group Incorporated (DE),Hopkins,United states of america,21,Medium,0,14.7,6.1,Significant,18.007386,2.66E+11,Health Care Plans,Healthcare
+T,AT&T Inc.,Dallas,United states of america,20,Low,2.1,10.8,6.7,Significant,36.93062369,2.73E+11,Communication Services,Communication Services
+XOM,Exxon Mobil Corporation,Irving,United states of america,37,High,18.6,10.2,8.6,Significant,2.331720194,2.74E+11,Oil & Gas - Integrated,Energy
+INTC,Intel Corporation,Santa clara,United states of america,17,Low,4.9,5.2,6.9,Significant,27.53036437,2.88E+11,Semiconductors,Technology
+BAC,Bank of America Corporation,Charlotte,United states of america,28,Medium,1.7,15.5,10.5,Significant,42.93831169,2.96E+11,Banks,Financial Services
+PG,Procter & Gamble Company (The),Cincinnati,United states of america,25,Medium,8.4,8.6,7.9,Significant,35.87902524,3.11E+11,Consumer Packaged Goods,Consumer Defensive
+MA,Mastercard Incorporated,Purchase,United states of america,20,Low,0.1,10,9.7,High,58.27723297,3.27E+11,Credit Services,Financial Services
+WMT,Walmart Inc.,Bentonville,United states of america,29,Medium,3.5,17.6,7.7,High,27.57917338,3.31E+11,Retail - Defensive,Consumer Defensive
+JNJ,Johnson & Johnson,New brunswick,United states of america,36,High,1.3,22.8,11.7,Severe,13.03370787,3.96E+11,Drug Manufacturers,Healthcare
+JPM,JP Morgan Chase & Co.,New york city,United states of america,23,Medium,1.2,12.1,9.4,Significant,42.79860684,4.19E+11,Banks,Financial Services
+V,Visa Inc.,San francisco,United states of america,19,Low,0.1,11.2,7.9,Significant,42.41321813,4.63E+11,Credit Services,Financial Services
+BRK-B,Berkshire Hathaway Inc.,Omaha,United states of america,13,Negligible,1,1,12,Moderate,0.327781715,5.57E+11,Insuranceâ€”Diversified,Financial Services
+BABA,Alibaba Group Holding Limited,Hangzhou,China,25,Medium,2.3,12.2,10.2,Moderate,54.7384548,5.63E+11,Retail - Apparel & Specialty,Consumer Cyclical
+FB,Facebook Inc.,Menlo park,United states of america,33,High,1.5,18.7,12.4,High,56.57182089,5.98E+11,Online Media,Technology
+AMZN,Amazon.com Inc.,Seattle,United states of america,31,High,5.8,13.7,11,Significant,23.02775688,9.27E+11,Online Media,Technology
+GOOGL,Alphabet Inc.,Mountain view,United states of america,30,Medium,0.9,15.9,12.8,High,28.17619813,1.00E+12,Online Media,Technology
+MSFT,Microsoft Corporation,Redmond,United states of america,15,Low,0.4,9.7,5.2,Significant,55.26238062,1.30E+12,Application Software,Technology
+AAPL,Apple Inc.,Cupertino,United states of america,24,Medium,0.6,13,10.3,Significant,86.16077089,1.42E+12,Computer Hardware,Technology

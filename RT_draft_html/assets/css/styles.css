@@ -1,23 +1,85 @@
 /* ----ELEMENT STYLING START---- */
-*{
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,700i&display=swap');
+
+/* *{
     margin:0;
     padding:0;
-}
+} */
 body {
-  font-family: Arial;
-  background: url(../images/Fig3.PNG) no-repeat;
-  background-size: cover;
+  overflow: hidden;
+  font-family: 'Lato', sans-serif;
+  color:#255
+  /* background: url(../images/backgroung2.PNG) no-repeat;
+  color:#255
+  background-size: cover; */
 }
-/*--navbar--*/
-p a {
-  font-family:arial;
-  color:orangered;
-  font-size:40px;
-  line-height:55px;
-  float:left;
+/*--navigation--*/
+.navbar {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.1rem;
+  background: rgba(0, 0, 0, 0.6)!important
+}
+  /* line-height:55px; */
+  /* float:left;
   padding: 0px 20px;
+  background:none; */
+
+.navbar-brand img {
+  height: 4rem;
 }
-ul {
+
+.navbar-nav li {
+  padding-right: 0.7rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color:white;
+  scroll-padding-top: 0.8rem;
+
+}
+.navbar-dark .navbar-nav .nav-link.active,
+.navbar-dark .navbar-nav .nav-link color:hover{
+  color:#000b0f
+}
+/*-- End navbar--*/
+
+/*--landing page--*/
+.home-inner{
+  background-image: url(assets/images/background1.PNG);
+}
+.caption {
+  width:100%;
+  max-width: 100%;
+  position: absolute;
+  top: 38%;
+  z-index: 1;
+  color: white;
+  text-transform: uppercase;
+}
+.caption h1 {
+  font-size:4rem;
+  font-weight: 700;
+  letter-spacing: 0.3rem;
+  text-shadow: .1rem .1rem .8rem black;
+  padding-bottom: 1rem;
+}
+.caption h3 {
+  font-size:2rem;
+  text-shadow: .1rem .1rem .8rem black;
+  padding-bottom: 1.6rem;
+}
+.btn-lg {
+  border-width: medium;
+  border-radius: 0;
+  padding: .6rem 1.3rem;
+  font-size: 1.1rem;
+}
+/*--End landing page --*/
+
+
+/* ul {
     margin:0px;
     padding:0px;
     list-style: none;
@@ -46,28 +108,28 @@ ul li ul li {
 }
 ul li:hover ul li {
     display: block;
-}
+} */
 /* ----Navbar END---- */
 
 /* ----Container START---- */
-#container{
-  width:800px
+/* #container{ */
+  /* width:800px
   margin-left: auto;
   margin-right: auto;
-}
+} */
 #content-description{
   /* Positioning */
-  width: 600px;
+  /* width: 600px;
   padding:10px;
   float:left;
-  
+   */
   /* Typography */
-  font-family:Georgia;
+  /* font-family:'Tangerine' serif ;
   font-size: 20px;
   font-weight: bold;
   color: darkblue;
   background:lavender
-}
+} */
 
 /* ----DESCRIPTION END---- */
 
@@ -153,4 +215,4 @@ ul li:hover ul li {
   background-color:grey;
 }
 
-/* ----FOOTER END---- */
+----FOOTER END----
