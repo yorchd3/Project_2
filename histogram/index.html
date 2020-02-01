@@ -48,11 +48,39 @@
       </div>
     </div>
     <div class="row">
-      <div class="col-md-12">
-        <div id="histogram"></div>
+      <div class="col-md-3 offset-md-1">
+        <div class="well">
+          <h5>Ticker Picker:</h5>
+          <form>
+            <select id="tickerPicker" onchange="tickerSelected(this.value)"></select>
+          </form>
+        </div>
+      <!-- <div class="col-md-4">
+        <div id="gauge"></div>
+      </div> -->
       </div>
-    </div>    
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+       <div id="histogram"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-md-3">
+        <div class="panel panel-primary">
+          <div class="panel-heading">
+            <h3 class="panel-title">Company Info</h3>
+          </div>
+          <div id="company-info" class="panel-body"></div>
+        </div>
+      </div>
+      <!-- <div class="col-md-4">
+        <div id="gauge"></div>
+      </div> -->
+    </div>            
   </div>
+  
+
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>

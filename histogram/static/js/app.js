@@ -10,7 +10,7 @@ var url2 = "./data/ESG_Database.json";
 function init() {
 
   d3.json(url).then((response) => {
-
+    
     var namesArr = response.names;
     var metArr = response.metadata;
     var samplesArr = response.samples;
@@ -33,7 +33,24 @@ function init() {
   });
 
   d3.json(url2).then((response2) => {
-    console.log(response2);
+
+    var tickersArr = Object.keys(response2["Company Name"]);
+    // var namesArr = Object.values(response2["Company Name"]);
+
+    tickersArr.forEach(ticker => {
+      d3.select("#tickerPicker").append("option").text(`${ticker}`);
+    });
+
+    var testComp = tickersArr[0];
+
+    var scoresObj = {};
+    scoresObj.agg = Object.values(response2["ESG Risk Score"]);
+    scoresObj.env = Object.values(response2["Environment Risk Score"]);
+    scoresObj.soc = Object.values(response2["Social Risk Score"]);
+    scoresObj.gov = Object.values(response2["Governance Risk Score"]);
+
+    updateESG(testComp, scoresObj);
+
   });
 
 }
@@ -143,20 +160,51 @@ function updateVisuals(myObj) {
   Object.keys(myObj.metadata).forEach(property => metUl.append("li").text(`${property}: ${myObj.metadata[property]}`));
 
 }
-//bin by risk category
-//bin by aggregate score category
-//bin by aggregate score
-//bin by specific E, S, G score
+
+function updateESG(testComp, scoresObj) {
+
+  console.log(testComp);
+
+  var metaDiv2 = d3.select("#company-info");
+
+  metaDiv2.selectAll("ul").remove();
+
+  metaDiv2.append("ul").attr("id", "meta-ul2");
+
+  var metUl2 = d3.select("#meta-ul2");
+
+  metUl2.append("li").text(`Ticker: ${testComp}`);
+
+  Object.keys(scoresObj).forEach(property => metUl2.append("li").text(Object.keys(scoresObj)));
+
+  let aggArr = Object.values(scoresObj.agg);
+  let envArr = Object.values(scoresObj.env);
+  let socArr = Object.values(scoresObj.soc);
+  let govArr = Object.values(scoresObj.gov);
+
+  console.log(`aggArr: ${aggArr}`);
+  console.log(`envArr: ${envArr}`);
+  console.log(`socArr: ${socArr}`);
+  console.log(`govArr: ${govArr}`);
+
+}
+
 
 /*
 ticker
+
 ESG Risk Score
-ESG Risk Score Level
-ESG Risk Score Percentile
+response["ESG Risk Score"] <- object with key-value pairs, key is ticker, value is integer
+
 Environment Risk Score
+response["Environment Risk Score"]
+
 Social Risk Score
+response["Social Risk Score"]
+
 Governance Risk Score
-Controversy Level Risk Text
+response["Governance Risk Score"]
+
 */
 
 //ticker,ESG Risk Score,ESG Risk Score Level,ESG Risk Score Percentile,Environment Risk Score,Social Risk Score,Governance Risk Score,Controversy Level Risk Text
@@ -179,6 +227,7 @@ var rand_arr2 = [];
 for (var i = 0; i < 500; i ++) {
 	rand_arr2[i] = Math.random();
 }
+
 var trace1 = {
     x: rand_arr1,
     type: "histogram",
